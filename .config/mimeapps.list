@@ -1,0 +1,5 @@
+[Default Applications]
+x-scheme-handler/ferdium=ferdium.desktop
+
+[Added Associations]
+application/x-shellscript=notepadqq.desktop;

@@ -1,0 +1,17 @@
+2024/03/17-11:14:44.255 a74 Reusing MANIFEST /home/stern/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/17-11:14:44.269 a74 Recovering log #12
+2024/03/17-11:14:44.271 a74 Reusing old log /home/stern/.config/discord/Local Storage/leveldb/000012.log 
+2024/03/17-11:18:33.712 2451 Level-0 table #16: started
+2024/03/17-11:18:33.745 2451 Level-0 table #16: 2980471 bytes OK
+2024/03/17-11:18:33.748 2451 Delete type=0 #12
+2024/03/17-11:18:33.749 2451 Compacting 4@0 + 1@1 files
+2024/03/17-11:18:33.766 2451 Generated table #17@0: 10 keys, 2228330 bytes
+2024/03/17-11:18:33.788 2451 Generated table #18@0: 75 keys, 2972561 bytes
+2024/03/17-11:18:33.790 2451 Generated table #19@0: 27 keys, 28380 bytes
+2024/03/17-11:18:33.790 2451 Compacted 4@0 + 1@1 files => 5229271 bytes
+2024/03/17-11:18:33.793 2451 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/03/17-11:18:33.793 2451 Delete type=2 #7
+2024/03/17-11:18:33.793 2451 Delete type=2 #9
+2024/03/17-11:18:33.793 2451 Delete type=2 #11
+2024/03/17-11:18:33.793 2451 Delete type=2 #13
+2024/03/17-11:18:33.793 2451 Delete type=2 #16

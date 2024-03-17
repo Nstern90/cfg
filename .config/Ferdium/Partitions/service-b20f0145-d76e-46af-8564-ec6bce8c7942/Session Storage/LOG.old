@@ -1,0 +1,5 @@
+2024/03/16-19:25:36.632 4384e Creating DB /home/stern/.config/Ferdium/Partitions/service-b20f0145-d76e-46af-8564-ec6bce8c7942/Session Storage since it was missing.
+2024/03/16-19:25:36.639 4384e Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-b20f0145-d76e-46af-8564-ec6bce8c7942/Session Storage/MANIFEST-000001
+2024/03/16-23:49:36.641 4384f Level-0 table #5: started
+2024/03/16-23:49:36.649 4384f Level-0 table #5: 9249 bytes OK
+2024/03/16-23:49:36.652 4384f Delete type=0 #3

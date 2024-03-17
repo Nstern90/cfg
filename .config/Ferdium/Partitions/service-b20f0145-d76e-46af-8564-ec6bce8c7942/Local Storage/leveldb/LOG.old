@@ -1,0 +1,5 @@
+2024/03/16-19:25:35.908 43865 Creating DB /home/stern/.config/Ferdium/Partitions/service-b20f0145-d76e-46af-8564-ec6bce8c7942/Local Storage/leveldb since it was missing.
+2024/03/16-19:25:35.975 43865 Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-b20f0145-d76e-46af-8564-ec6bce8c7942/Local Storage/leveldb/MANIFEST-000001
+2024/03/16-23:04:01.173 4384f Level-0 table #5: started
+2024/03/16-23:04:01.180 4384f Level-0 table #5: 9518 bytes OK
+2024/03/16-23:04:01.182 4384f Delete type=0 #3

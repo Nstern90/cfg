@@ -1,0 +1,113 @@
+{
+  "app_name": "678fd78b68e7432b82d6cbc2928d33fb",
+  "app_title": "Football Manager 2022 Resource Archiver",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "678fd78b68e7432b82d6cbc2928d33fb",
+      "asset_id": "678fd78b68e7432b82d6cbc2928d33fb",
+      "build_version": "642-win-epic-resource_archiver",
+      "catalog_item_id": "27d46660e611471a8262abefed1586c4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "97071dce4a98441d9c0b7f0df92f7b31"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-27T18:51:00.913Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FM22RA"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "97071dce4a98441d9c0b7f0df92f7b31"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Football Manager 2022 Resource Archiver",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "endOfSupport": false,
+    "entitlementName": "27d46660e611471a8262abefed1586c4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "27d46660e611471a8262abefed1586c4",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a8151b102002ccaa412e2dd99b5f6a9d",
+        "size": 889897,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-19T05:20:22.212Z",
+        "url": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/FM22 RESOURCE ARCHIVER - LANDSCAPE_2560x1440-a8151b102002ccaa412e2dd99b5f6a9d",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6eb2b22dcade9c3fdd462742c312b4b1",
+        "size": 537154,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-19T05:20:29.185Z",
+        "url": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/FM22 RESOURCE ARCHIVER - PORTRAIT_1200x1600-6eb2b22dcade9c3fdd462742c312b4b1",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-11-19T05:21:13.513Z",
+    "namespace": "97071dce4a98441d9c0b7f0df92f7b31",
+    "releaseInfo": [
+      {
+        "appId": "678fd78b68e7432b82d6cbc2928d33fb",
+        "compatibleApps": [],
+        "dateAdded": "2021-08-27T18:49:26.837Z",
+        "id": "9bb1fd3a7eef4ee9be1aba14751127fe",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Football Manager 2022 Resource Archiver",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,16 @@
+[17/03/2024, 00:27:21] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+INFO [AUTH_MANAGER]:	 Refreshing token
+[17/03/2024, 00:27:21] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+1.0.1 Jonathan Joestar
+INFO [LIBRARY]:	 Synchronizing library
+[17/03/2024, 00:27:22] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+[17/03/2024, 00:27:25] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile list-updates --json
+ERROR [CLI]:	 No games installed
+[]
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Successfully synced the library

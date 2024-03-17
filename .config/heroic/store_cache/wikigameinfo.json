@@ -1,0 +1,42 @@
+{
+	"League of Legends": {
+		"pcgamingwiki": {
+			"steamID": "1333200",
+			"howLongToBeatID": "",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				""
+			],
+			"genres": [
+				"Adventure"
+			],
+			"releaseDate": [
+				"Windows: November 1, 2023"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 10561943,
+			"comp_main": 3876163,
+			"comp_plus": 5561027
+		},
+		"gamesdb": {
+			"steamID": "20590"
+		},
+		"steamInfo": null
+	},
+	"__timestamp": {
+		"League of Legends": "Sun Mar 17 2024 00:29:04 GMT+0000 (Greenwich Mean Time)"
+	}
+}

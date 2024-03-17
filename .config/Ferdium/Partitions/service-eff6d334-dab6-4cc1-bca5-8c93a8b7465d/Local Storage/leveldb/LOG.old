@@ -1,0 +1,35 @@
+2024/03/16-19:25:35.922 43dd7 Creating DB /home/stern/.config/Ferdium/Partitions/service-eff6d334-dab6-4cc1-bca5-8c93a8b7465d/Local Storage/leveldb since it was missing.
+2024/03/16-19:25:35.975 43dd7 Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-eff6d334-dab6-4cc1-bca5-8c93a8b7465d/Local Storage/leveldb/MANIFEST-000001
+2024/03/16-20:04:57.091 4384f Level-0 table #5: started
+2024/03/16-20:04:57.093 4384f Level-0 table #5: 13276 bytes OK
+2024/03/16-20:04:57.096 4384f Delete type=0 #3
+2024/03/16-20:40:43.141 4384f Level-0 table #7: started
+2024/03/16-20:40:43.148 4384f Level-0 table #7: 13387 bytes OK
+2024/03/16-20:40:43.151 4384f Delete type=0 #4
+2024/03/16-21:24:57.940 4384f Level-0 table #9: started
+2024/03/16-21:24:57.947 4384f Level-0 table #9: 13417 bytes OK
+2024/03/16-21:24:57.951 4384f Delete type=0 #6
+2024/03/16-22:04:58.184 4384f Level-0 table #11: started
+2024/03/16-22:04:58.192 4384f Level-0 table #11: 13435 bytes OK
+2024/03/16-22:04:58.195 4384f Delete type=0 #8
+2024/03/16-22:40:43.147 4384f Level-0 table #13: started
+2024/03/16-22:40:43.155 4384f Level-0 table #13: 13409 bytes OK
+2024/03/16-22:40:43.161 4384f Delete type=0 #10
+2024/03/16-23:24:58.614 4384f Level-0 table #15: started
+2024/03/16-23:24:58.621 4384f Level-0 table #15: 13464 bytes OK
+2024/03/16-23:24:58.623 4384f Delete type=0 #12
+2024/03/16-23:24:58.624 4384f Compacting 4@0 + 1@1 files
+2024/03/16-23:24:58.625 4384f Generated table #16@0: 7 keys, 2132 bytes
+2024/03/16-23:24:58.625 4384f Compacted 4@0 + 1@1 files => 2132 bytes
+2024/03/16-23:24:58.630 4384f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/16-23:24:58.631 4384f Delete type=2 #7
+2024/03/16-23:24:58.631 4384f Delete type=2 #9
+2024/03/16-23:24:58.631 4384f Delete type=2 #11
+2024/03/16-23:24:58.631 4384f Delete type=2 #13
+2024/03/16-23:24:58.631 4384f Delete type=2 #15
+2024/03/17-00:04:59.291 4384f Level-0 table #18: started
+2024/03/17-00:04:59.298 4384f Level-0 table #18: 13445 bytes OK
+2024/03/17-00:04:59.300 4384f Delete type=0 #14
+2024/03/17-00:40:43.153 4384f Level-0 table #20: started
+2024/03/17-00:40:43.160 4384f Level-0 table #20: 13410 bytes OK
+2024/03/17-00:40:43.163 4384f Delete type=0 #17

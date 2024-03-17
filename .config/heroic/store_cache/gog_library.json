@@ -1,0 +1,769 @@
+{
+	"games": [
+		{
+			"app_name": "gog-redist",
+			"runner": "gog",
+			"title": "Galaxy Common Redistributables",
+			"canRunOffline": true,
+			"install": {
+				"is_dlc": true
+			},
+			"is_installed": true,
+			"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/postal_classic_and_uncut",
+			"developer": "Running with Scissors",
+			"app_name": "1207658754",
+			"art_cover": "https://images.gog.com/7c69274784cb976e5663199526ffb55e08cab3ec79ff195b9a0ceac56d9e3acb.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/1ee0cbc2915e72f62f05b56d8344e3401680222c278ce82fb98a09763ec6d45e.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/09ab6d49850d15b00bf6fe9562d46c251681418a464b93dcd0b1016b295d5be7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Postal is a survival horror isometric third-person shooter video game developed by Running With Scissors and published by Ripcord Games in 1997. A sequel to the game, Postal², was released in 2003. Director Uwe Boll has bought the movie rights for the series, and has produced a film of the same name. A March 2001 re-release of the game, called Postal Plus, included a \"Special Delivery\" add-on",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/postal_classic_and_uncut"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "postal_classic_and_uncut",
+			"save_folder": "",
+			"title": "POSTAL: Classic and Uncut",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/prison_architect",
+			"developer": "Introversion Software",
+			"app_name": "1441974651",
+			"art_cover": "https://images.gog.com/ab04dea52661a782e749ceef4aff35c8d0c5621f4be0dbaa0ad8fc9fceebae68.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/824738dd3534fba4838d9d4920cc0a780c9dea998a5d45f28a93fbb3bacdcaff.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/ab679758906a2b48a4e3cfda684cf78288aef89a4fbc39331a6e6d89787eb7e9.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The game is a top-down 2D construction and management simulation where the player takes control of building and running a prison. The player is responsible for managing various aspects of their prison including building cells and facilities, planning and connecting utilities, hiring and assigning staff, including a warden, guards, workers, and more. The player needs to recruit staff to unlock more aspects of the game. The player is also responsible for the finance, and keeping their inmates content.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/prison_architect"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "prison_architect",
+			"save_folder": "",
+			"title": "Prison Architect",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_beast_inside",
+			"developer": "Illusion Ray Studio",
+			"app_name": "1341028548",
+			"art_cover": "https://images.gog.com/aa028986824f17405767afdc543ebd62e208a3a4b5a13ac12e7edba4db977597.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/96cb33bf5b923024afe268994126dd010a099de643dc5ef586e1e9fa32d81095.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0f073a16c90f7e1a1f255caf1b72135a5ef4632f7c89eda17c15d2f6444b2bce.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Beast Inside is a gripping new twist on thriller and survival horror genres, telling a multi-layered story about cryptanalyst discovering a hundred-year-old murder-mystery that not only remains unresolved, but also puts his very life at risk.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_beast_inside"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_beast_inside",
+			"save_folder": "",
+			"title": "The Beast Inside",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ghostrunner",
+			"developer": "3D Realms, One More Level, Slipgate Ironworks",
+			"app_name": "1957528513",
+			"art_cover": "https://images.gog.com/581860dc4ccb6b7922dffe33d6f03f5a93337d2efc364828e938a9659cca0997.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/c22ac0283f670cbb8ba887ae220f0dc8df9356a91aaa7a3b8d2c40b2cfa7088d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4189cb24cffd014efe01df71d3cb6bade85455df83736686eed94893986d42b0.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Ascend humanity’s last remaining shelter, a great tower-city. The tower is torn by violence, poverty and chaos. Conquer your enemies, discover the secrets of the superstructure and your own origin and obtain the power to challenge The Keymaster.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ghostrunner"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ghostrunner",
+			"save_folder": "",
+			"title": "Ghostrunner",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/neverwinter_nights_enhanced_edition",
+			"developer": "BioWare, Beamdog",
+			"app_name": "1097893768",
+			"art_cover": "https://images.gog.com/50efceba47cfb441c44420781e022559041b2fb26dbd1647c73443bdc7345b34.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7ca8e2974f49daca1f2b037c5af04652f1d224a68b5b9ea042ad27e45dfb931f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fbbfef6da3721c646de8859e8fd6748016fa1d897a06a061c00ded562409bd8f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Neverwinter Nights: Enhanced Edition is an updated version of the 2002 video game Neverwinter Nights. The Enhanced Edition is based on Neverwinter Nights: Diamond Edition and it comes with the base game as well as the Shadows of Undrentide, Hordes of the Underdark, Kingmaker, Witch's Wake and ShadowGuard expansions. Remastered version brings numerous technological improvements to the game, including an updated graphics engine and revitalized multiplayer support.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/neverwinter_nights_enhanced_edition"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "neverwinter_nights_enhanced_edition",
+			"save_folder": "",
+			"title": "Neverwinter Nights: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_elder_scrolls_iii_morrowind_goty_edition_game",
+			"developer": "Bethesda Game Studios",
+			"app_name": "1435828767",
+			"art_cover": "https://images.gog.com/7ca1882902d39149c9d17e0f6cd3cf9fd3c1d012afe2e1a39045fc88905b05ab.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/2889cf5bf3e925ad63117f38e3e72f3f0dd96901757eaf515e5e9bd0840e19e1.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/6204e98e08440dcbb49e4cce8beee37fb79f3eb3eb7bb574f3b7ceccedd66eff.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "An epic, open-ended single-player RPG, Morrowind allows you to create and play any kind of character imaginable. You can choose to follow the main storyline and find the source of the evil blight that plagues the land, or set off on your own to explore strange locations and develop your character based on their actions throughout the game. Featuring stunning 3D graphics, open-ended gameplay, and an incredible level of detail and interactivity, Morrowind offers a gameplay experience like no other.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_elder_scrolls_iii_morrowind_goty_edition_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_elder_scrolls_iii_morrowind_goty_edition_game",
+			"save_folder": "",
+			"title": "The Elder Scrolls III: Morrowind GOTY Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/dishonored_2",
+			"developer": "Arkane Studios",
+			"app_name": "1431426311",
+			"art_cover": "https://images.gog.com/e3abbf8a5f59d25020359db99488f4be264e361760b8e28260a6de992e5ca77e.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7d3872f065587be6c41181111401938dee58819fbc077a9fca87c3c49476e497.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/758323c46a96995469cd6a7018e7044fa4b9b48ed171317b86e528fae97de103.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Dishonored 2 is a first-person action video game and the sequel to Dishonored. It borrows many of the gameplay elements from the first opus: players define their own play style by blending action, assassination, stealth, mobility and combat. Combining tools at their disposal, players are allowed options to eliminate enemies, whether they choose to pursue them unseen or ruthlessly attack head on. Dishonored 2 features the same campaign style as its predecessor in which the protagonist must advance through a series of missions.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/dishonored_2"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "dishonored_2",
+			"save_folder": "",
+			"title": "Dishonored 2",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/middleearth_shadow_of_war",
+			"developer": "Monolith Productions",
+			"app_name": "1324471032",
+			"art_cover": "https://images.gog.com/23db663412cc81659597e67971a9a7471bdad29c9eb1263f627297b3642a531e.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/57d06758be834c901dda8ae9a75bf261418e1a8a6801c174d8e808dbe4f460dc.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/338095d092aa11e1a542950d23289c7c2eea7755ca4341a4c0cf228d075c4525.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Go behind enemy lines to forge your army, conquer Fortresses and dominate Mordor from within. Experience how the award winning Nemesis System creates unique personal stories with every enemy and follower, and confront the full power of the Dark Lord Sauron and his Ringwraiths in this epic new story of Middle-earth.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/middleearth_shadow_of_war"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "middleearth_shadow_of_war",
+			"save_folder": "",
+			"title": "Middle-earth™: Shadow of War™",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the_game",
+			"developer": "Bethesda Game Studios",
+			"app_name": "1458058109",
+			"art_cover": "https://images.gog.com/e07fd2011db02cedb6e3d1b795c1b92a1b2c9de0c04971fcffc0290f7a9a760b.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/15c40e319b2c9248e954391b6933bd68489e280ae9c808fec5144e969f64050d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/07670e549c7867826cc4b40e900ce9f0204169d030f4d93d37c89eb9ae46553d.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Elder Scrolls IV: Oblivion Game of the Year Edition presents one of the best RPGs of all time like never before. Step inside the most richly detailed and vibrant game-world ever created. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the_game",
+			"save_folder": "",
+			"title": "The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/brigador",
+			"developer": "Stellar Jockeys",
+			"app_name": "1356485086",
+			"art_cover": "https://images.gog.com/7d44ac145a6c2cf74b412c4de0110f3051095c09bf0bab9c326f4b23ce089bcc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/d2ceb77eb0704ccb4d0ff87604e29dc7b6c1f8f6a81186740b0542badc968b5f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0db62f7aaa1611a1fee4b288b68e79d78f73d75f3ab6ec1f61d278914c6503d5.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Brigador is an isometric vehicle action game set in completely destructible environments. Highly difficult without being unfair. Lush revivalist graphic style reminds you of what 90's games would look like now. Huge variety of playable vehicles and weapons, deep tactics and high skill ceiling with custom map support all contribute to a game built to be played and enjoyed for a long time.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/brigador"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "brigador",
+			"save_folder": "",
+			"title": "Brigador: Up-Armored Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/virtuaverse",
+			"developer": "Theta Division",
+			"app_name": "2116968103",
+			"art_cover": "https://images.gog.com/2e36a452e59fb5437eb55dab5071b002eb1d52305e133c9601546ebe1863b42a.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8efc795610864c299270a7cedc8136c09fb42d3a82b7cbadd1171e934d3e81c6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/dd54144292369d005c5903cb6e4350207649d20a73ddcbd0bd129aeb15c002a0.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "VirtuaVerse is a cyberpunk point & click adventure set in the future not so far away; one where Artificial Intelligence prevailed above all other AI's and their governments and society has migrated to a permanently integrated reality. In your quest around the world, you will have to walk across hardware graveyards, deal with digital archeology, tribes of cryptoshamans, and virtual reality debauchery.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/virtuaverse"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "virtuaverse",
+			"save_folder": "",
+			"title": "VirtuaVerse",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/the_witcher",
+			"developer": "CD Projekt RED",
+			"app_name": "1207658924",
+			"art_cover": "https://images.gog.com/3a4d9190f3c0a0a8d63638193ef8c9af2ba58eb0b250295db2a28bccf852a76d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fc1c44b2252e3200db66872630f7e21687bba217b6eabb188451556b5941cf63.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Now you can experience this fantastic RPG on Mac and PC!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/the_witcher"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_witcher",
+			"save_folder": "",
+			"title": "The Witcher: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/frostpunk",
+			"developer": "11 bit studios",
+			"app_name": "1648559910",
+			"art_cover": "https://images.gog.com/1127b36fd766ced0e237d524bb2f4228ff6ec5920c4382dc999afa71fb023af1.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b1e6e3099c3cc3b06d4c9b318703cfae51374582c178bd1f479b67c3556c7885.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/800686d0f05107d01ad02fa3deecfb3468ad985f71d4a310e95d61c8a775eb59.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In a completely frozen world, people develop steam-powered technology to oppose the overwhelming cold. Society in its current form becomes ineffective and it has to change in order to survive.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/frostpunk"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "frostpunk",
+			"save_folder": "",
+			"title": "Frostpunk",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_evil_within_2",
+			"developer": "Tango Gameworks",
+			"app_name": "1083619800",
+			"art_cover": "https://images.gog.com/70b7f1756c49e429bc3e533a24716a37baf8ae748e89c1af34cdf28e1d8b5c69.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/97606b5bbebbf3af64f2ef870b32aed20e87e3c8b769e219452a0783f7743b8b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/2a9ca6560a433d3c0afcb102deb94f444dc74b429151ac2d13f0922a53e8f622.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Evil Within 2 is the latest evolution of survival horror. Detective Sebastian Castellanos has lost it all. But when given a chance to save his daughter, he must descend once more into the nightmarish world of STEM.\n\nHorrifying threats emerge from every corner as the world twists and warps around him. Will Sebastian face adversity head on with weapons and traps, or sneak through the shadows to survive.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_evil_within_2"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_evil_within_2",
+			"save_folder": "",
+			"title": "The Evil Within 2",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/control_ultimate_edition",
+			"developer": "Remedy Entertainment",
+			"app_name": "2049187585",
+			"art_cover": "https://images.gog.com/bc900962ee814d51504645df63d62efb5d515648f0278217b117d60c0b31adf2.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/a7109b6805ba44c05a110ceb6401422f3ed6de9289f95216b979b918ad3a0e95.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d76cff73fe6d26607f202fe6abc314e7b113f36dea7c89c3d568d2b183701ef7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/control_ultimate_edition"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "control_ultimate_edition",
+			"save_folder": "",
+			"title": "Control Ultimate Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/beautiful_desolation_game",
+			"developer": "The Brotherhood Games, THE BROTHERHOOD",
+			"app_name": "1295420179",
+			"art_cover": "https://images.gog.com/909d900d2258156ddbbeb42fbd13fd5c98597b3fe7decdfdf155c53810927483.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/2874e8914d622ad2367cfb0e542fb8af8faca20f7a5c2d6b7d72938eba705e06.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/7c6a484a003752efac4bc22968d6f5e7b8351923dd35f35a2aa15b422f4229d1.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A post-apocalyptic adventure game set in a world you have never seen before. \r\n \r\nThe Penrose appeared without warning. One day the sky was empty, and the next it was filled by an impossibly shaped monolith. Tragedy hit home for Mark and Don Leslie, when an incident tore apart their brotherly bond in this dramatic story that spans the 1980s and beyond. Allow the Leslie family's story to unfold as you delve into a unique adventure with BEAUTIFUL DESOLATION, to explore this futuristic wasteland to discover villages, destroyed cities, and uncover the secrets of strange and abandoned technology. The never before seen, African, post-apocalyptic setting opens up a menagerie of bizarre creatures and vibrant characters, alongside a new world inspired by Sub-Saharan flora and fauna. But beware, newcomers are either revered or hated.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/beautiful_desolation_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "beautiful_desolation_game",
+			"save_folder": "",
+			"title": "BEAUTIFUL DESOLATION",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/neverwinter_nights_diamond_edition",
+			"developer": "BioWare",
+			"app_name": "1207658890",
+			"art_cover": "https://images.gog.com/6d29d250b106325bee0c9d48bf835b78d3290f2513b368794869de4d337391cf.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8e8df168c2bbf4b34a804d671041643eea1d6e6a05c9c42c80128f9d88b6e07e.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fd4c34c4059a37cf2a27f749ddcf0227be3af162771289f255fe2db4f6e0a4b9.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Experience one of the most popular role-playing adventures of our time, a journey that has thrilled millions. Inhabit dreamlike worlds of myth and mystery. Boundless lands of deadly creatures, foreboding omens and bold heroism.\n\nThis game puts you at the center of an epic tale of faith, war and betrayal, all the while staying true to the pen-and-paper role-playing tradition.\nNeverwinter Nights - A world without limits!\n\nThe Diamond Edition includes the original Neverwinter Nights and three official expansion packs: Shadows of Undrentide, Hordes of the Underdark and Kingmaker.\n\nA fast-paced RPG with an intuitive interface, suitable for new players and RPG veterans alike.\n\nA classic RPG experience that will keep you entertained for over one hundred hours!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/neverwinter_nights_diamond_edition"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "neverwinter_nights_diamond_edition",
+			"save_folder": "",
+			"title": "Neverwinter Nights Diamond",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/fallout_game",
+			"developer": "Black Isle Studios, The Omni Group",
+			"app_name": "1440148836",
+			"art_cover": "https://images.gog.com/05c3dcacbbc3209e0d9b16e52ae1edb192d37dd15b2014beec749f5fa4775acc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fd5058854f23dc3c0326109721683cd1e881f609fe046fb78a15af426f48dbe6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4f4fca6e38d3012e08f0008fe7311d0ddf985041357e885edc25bb1f80846f19.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Vault Dweller is tasked with exploring post-nuclear California in order to retrieve a water chip to replace the broken chip of Vault 13, their home, which they are the first person to ever leave. The player will engage in Western RPG character building and turn-based tactical combat while getting to know settlements and factions of people, mutants and ghouls through branching dialogue trees.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/fallout_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "fallout_game",
+			"save_folder": "",
+			"title": "Fallout",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/quake_4_game",
+			"developer": "Aspyr Media, Raven Software",
+			"app_name": "1836059896",
+			"art_cover": "https://images.gog.com/f8a758856a0b18f103ce979f2fc13cdd9d69ab6464fc5265e2d8b8f02c759ccd.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8b766059897f24b15df213416855fbde506ca8c3f714722b51806f371b7c4523.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/03b0019718ede50924b66f5c1f1de0460edebe617770310498385bcb9855a4df.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Quake 4 is a action shooter game which serves as the another chapter in the Quake series.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/quake_4_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "quake_4_game",
+			"save_folder": "",
+			"title": "Quake 4",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/prey",
+			"developer": "Arkane Studios",
+			"app_name": "1158493447",
+			"art_cover": "https://images.gog.com/d93a046d3654929200462cf3dab3905eeb6c9a2c5681ccdae0ad0d654b01424d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/05c44010aae5577d4a19cd94bced693fa58a32f6ce37de8a7ca245a05e9e2000.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/23f97227d0a8d9bc48ab688c71dfc32877c900220e7f9000e9a0eca4a9ee1e0f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/prey"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "prey",
+			"save_folder": "",
+			"title": "Prey",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/gwent_the_witcher_card_game",
+			"developer": "CD Projekt RED",
+			"app_name": "1971477531",
+			"art_cover": "https://images.gog.com/a1ae00ffb4aaa239a6570883279110be8be0bcc52f314d6fb5dfb7387e6ec89f.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/c3e238dfb94c3f189474f378cfd8855868ee38a22f9cc062089ba952fb6f55ab.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/65843d4d34f3ed528b882eff58075b0c14d03571f02ca6a556ae197de976099a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Join in The Witcher universe’s favorite card game! In GWENT, you clash with your friends in fast-paced duels that combine bluffing, on-the-fly decision making and careful deck construction. \r\n\r\nPlay your cards right and manage a two-row battle formation as you unleash your hand over a best-of-three series of rounds. With heroes, spells and special abilities that dramatically turn the tide of battle, deception and clever tricks will be necessary parts of your arsenal.\r\n\r\nPick your side – command five different factions: the mighty Nilfgaardian Empire, proud Skellige, brutal Monsters, cunning Northern Realms, or shadowy Scoia’tael. \r\nBuild your deck – collect new cards and create armies full of versatile units and unique heroes. \r\nCraft new cards – break down unwanted cards and craft new ones to build an ever-evolving deck.\r\n\r\nSKILL IS YOUR WAY TO VICTORY - Rules & Tricks\r\nIf you can’t overpower your enemy, make sure you know how to outsmart them!\r\nForce their hand – with limited cards per game, lure your opponent into draining their resources!\r\nLose the battle, win the war – win the entire game by learning how to cleverly lose a round.\r\nHold the line – play your cards across two rows and build a formation to counter your opponent’s strategy. \r\nShape the meta-game — the party just started and everyone can become a pro. Test yourself and become the next leaderboard legend.\r\n\r\nBRING YOUR ARMY TO THE TABLE - Game Modes\r\nPlay online for fun, or go competitive and win fame and glory!\r\nFriendly Matches – test your deck, try out new strategies, or just show off your collection of rare, animated cards. \r\nRanked Matches – rise through player-driven divisions. \r\nArena Mode – draft a deck from GWENT’s entire collection of cards and conquer Master Mirror’s arena!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/gwent_the_witcher_card_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "gwent_the_witcher_card_game",
+			"save_folder": "",
+			"title": "GWENT: The Witcher Card Game",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/beat_cop",
+			"developer": "Pixel Crow",
+			"app_name": "1584866499",
+			"art_cover": "https://images.gog.com/f4dc9027f606a6150dd582ecd9097a8d4983a09751dffa0d66de5650819a4707.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/ebbc93d0596f9b67e87e811fa4a54b468aa33ea22581b4d36ce8e17a9a627b18.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0f2f256972b083ffe93988bb94506445e9472b6dcc16c3ab96af472c143add69.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A retro, pixel art style adventure in New York, inspired by 80’s cop shows. You are Jack Kelly and you’ve been framed into murder. Now as a regular beat cop you have to find out, who did that. Expect thick crime story, a lot of black humour and all the other things you can find on the streets of Brooklyn.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/beat_cop"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "beat_cop",
+			"save_folder": "",
+			"title": "Beat Cop",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition_game",
+			"developer": "Obsidian Entertainment",
+			"app_name": "1454587428",
+			"art_cover": "https://images.gog.com/696f9f0650509ecc49ff2d16504eb22deae7d12814f88ca09fb8d833cd45e243.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/602f85ba5c82e939d25b74762a08cc6c6efc2efb6215144d618cd7d6c73293bc.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/e2e63bb22e866c8563f002850c3dd345721c1eb50a54ee141569fbe60f544fd8.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Welcome back to New Vegas! \r\n \r\nWith the introduction of the Ultimate Edition Bethesda Softworks presents the definitive edition of Fallout: New Vegas?. This complete package, which includes the Dead Money, Honest Hearts, Old World Blues and Lonesome Road add-on packs, allows you to experience everything that New Vegas has to offer. To sweeten the pot, you?ll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs Courier?s Stash and Gun Runners Arsenal. \r\n \r\nWhether you?re a seasoned explorer of the Mojave or playing the game for the first time you will find there are more friends, and enemies, to make, more consequences to be responsible for and more opportunities to live in glory, or infamy, throughout the Wasteland. The choices you make will be as influential as ever. \r\n \r\nEnjoy your stay.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "fallout_new_vegas_ultimate_edition_game",
+			"save_folder": "",
+			"title": "Fallout: New Vegas Ultimate Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall",
+			"developer": "Bethesda Softworks",
+			"app_name": "1435829353",
+			"art_cover": "https://images.gog.com/6ecbe19f18ee42bf0f43cb4a9e55e714d21282bcc660453570e36e259a8d75bc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8cc4d6705ba01454f947015200f699ab1c1e8cde5eaf217bda5619d7fc06aab7.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fb3d28325eb1bc700e2fbe982638c85f7180de68f50da472f109e9c22b0cc8ae.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Elder Scrolls - Daggerfall is the second fantasy RPG from The Elder Scrolls series. The game is situated in a city of Daggerfall and its surrounding areas. The emperor himself asked you, as your friend, to investigate the death of King Lysandus. The whole story is up to you. There is no straight line which you should follow. you have a number of options for character classes and numerous regions filled with cities, towns, and dungeons. \r\n \r\nYour journey starts on your way to the Kingdom of Daggerfall. Unfortunately your ship is wrecked in a storm and you end up in a small cave with only your bare life. Your first goal becomes to escape, and so your adventure begins. The game has a numerous options how to solve the crisis and numerous differed endings as well.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_elder_scrolls_chapter_ii_daggerfall",
+			"save_folder": "",
+			"title": "The Elder Scrolls II: Daggerfall",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_elder_scrolls_arena",
+			"developer": "Bethesda Softworks",
+			"app_name": "1435828982",
+			"art_cover": "https://images.gog.com/ef6e14d32f2d094fe44414ebdf264effd8d8ca80ab238e6cbc28d342f1535422.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/bc659ae3d4dc3f16dc8e1783a63c18f0ffcbb027d2aea29ce02166b6e3150f20.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/79da8130cd0f4ae9ddf9e2bd38c732d112517f0f1ff3df101e2ade79f9f9dcc0.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Elder Scrolls - Arena is the first RPG fantasy game of the Elder Scrolls series.\nThe game takes place on a planet called Nirn in the empire of Tamriel. The emperor of Tamriel, Uriel Septim, is planing to gather the whole Nirn under the imperial flag. He allies himself with the mage Jagar Tharn who is unfortunately intent on stealing the emperor's throne. Jagar Tharn imprisons the emperor in another dimension and locks the key inside a dungeon under the imperial city. Your job is to find all the pieces of the key, reassemble it, kill Jagger Tharn and free the emperor.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_elder_scrolls_arena"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_elder_scrolls_arena",
+			"save_folder": "",
+			"title": "The Elder Scrolls: Arena",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		}
+	],
+	"__timestamp": {
+		"games": "Sun Mar 17 2024 00:27:23 GMT+0000 (Greenwich Mean Time)"
+	}
+}

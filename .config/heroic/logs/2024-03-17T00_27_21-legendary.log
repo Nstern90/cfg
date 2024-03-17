@@ -1,0 +1,432 @@
+[17/03/2024, 00:27:21] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.34", codename "Direct Intervention"
+[17/03/2024, 00:27:22] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * 20XX (App name: Quail | Version: 1.42.13rc1)
+ * 3 out of 10, EP 1: "Welcome To Shovelworks" (App name: Flounder | Version: R01_S01_E05_V007_CL16693)
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Automachef (App name: 069a60f6b0514a5fbe81b38957c1ddfd | Version: 15)
+ * Creature in the Well (App name: a579a08e71b341e6af106dbd170e2ab2 | Version: 1.0.0-137001-1)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * DARQ (App name: ee96375fac2f47de978170a24398e581 | Version: 1.3.2d)
+ * Dauntless (App name: Jackal | Version: 1.14.6.615145)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 9158263)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 935)
+ * Dungeons 3 (App name: 351fe5b32e22412d8fa41f4c7395fed1 | Version: v1.7 build13 @c33954b v11)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_5527)
+ * Fallout 3: Game of the Year Edition (App name: adeae8bbfc94427db57c7dfecce3f1d4 | Version: 1.11)
+ * Farming Simulator 19 (App name: Stellula | Version: 1.7.1.0o Win)
+ * FM21 Editor (App name: 5d69d0ab27814455ae0ddce0fcfbb86a | Version: 494-win-epic-editor)
+ * FM21 Resource Archiver (App name: 75c4c59461b946028448dd1bf17b64c6 | Version: 193-win-epic-resource_archiver)
+ * Football Manager 2021 (App name: ec997512b77d4dd5baf30ab5c2f8e8c9 | Version: 1540115-win)
+ * Football Manager 2021 Touch (App name: 6f5862ba65244cfe86490f253d64feb1 | Version: 1540190-win)
+ * Football Manager 2022 (App name: 29c30b4114b247678453c84ae156715d | Version: 1662587-win)
+ * Football Manager 2022 Editor (App name: 06e53aec2b194423af417babe92050db | Version: 1187-win-epic-editor)
+ * Football Manager 2022 Resource Archiver (App name: 678fd78b68e7432b82d6cbc2928d33fb | Version: 642-win-epic-resource_archiver)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-29.00-CL-32116959-Windows)
+ * GigaBash (App name: 2dc25e07aa624edf9ff132c09ce23a7c | Version: 183)
+ * God's Trigger (App name: 9bc4423d873845739cc99ab69b6bfbe9 | Version: 1.2.58760.3)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Killing Floor 2 (App name: Finch | Version: 537162-2024_01_30_21h15m50s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * League of Legends (App name: 64b0c77d07f644e6a2326a1fd7ab9926 | Version: 1168-327)
+ * Legends of Runeterra (App name: b1c759a608764049a4cbea6e979f2eeb | Version: 1168-327)
+ * Lifeless Planet: Premier Edition (App name: 860a4feefe2a4f48905ae86c61d5db64 | Version: 1.0.0)
+ * Magic The Gathering Arena (App name: stargazer | Version: 5372.1057087)
+ * Marvel's Guardians of the Galaxy (App name: 63a665088eb1480298f1e57943b225d8 | Version: 2984448)
+  + Marvel's Guardians of the Galaxy: Social-Lord Outfit (App name: 9596620d263b40c083ddf1f0c662c8ff | Version: 2978210)
+ * Nioh: The Complete Edition (App name: b5e42b0dc2f544a5bbb4080a433b8b71 | Version: Ver1.24.08.57450)
+ * Oddworld: New 'n' Tasty (App name: 7c566548d24343e48151125ced4b494c | Version: Epic 1.0)
+ * Pathway (App name: 8fceb562623c430db9bb6abf0549c43e | Version: 1.4.0_windows64)
+ * Predecessor (App name: 97b084f37e344733ac82f493ac90753c | Version: Release-128639-Shipping-plive-119464)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Quake (App name: 18161d3ef68e4166968036626d173f25 | Version: 5237)
+ * RAGE 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rocket League® (App name: Sugar | Version: BC2_Update49+443289)
+ * Rogue Company (App name: Pewee | Version: 1787)
+ * Roller Champions (App name: 540f935fa0ad4bd498177ee5ad3b54e4 | Version: 1.02)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * RollerCoaster Tycoon® 3: Complete Edition (App name: 281a47e363284108b82bf05c1a612145 | Version: 3.2.5.13)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * SAMURAI SHODOWN NEOGEO COLLECTION (App name: 75553c71fa1744a4be89f71d5b862eae | Version: 1.0.5.4)
+ * Shadowrun Hong Kong (App name: 41470cb5755440b8b55ec3f94351133a | Version: 1.0.0)
+ * Shadowrun Returns (App name: dc29cb42f32e4a17af1d68c715fa459c | Version: 1.0.0)
+ * Shadowrun: Dragonfall - Director’s Cut (App name: 5b41454974be4d5883056ba298e53675 | Version: 1.0.0)
+ * Speed Brawl (App name: 6ffe878bb1ce490ba6d3a359a1f88df2 | Version: 1.5-cbf526615d)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Spirit of the North (App name: d2d941e5c1ec44ae9e87e9e7cdddf1dd | Version: 4.4.0)
+ * STAR WARS™ Battlefront™ II: Celebration Edition (App name: MtMassive | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin MtMassive" to activate and/or run the game.
+ * Stick it to the Man (App name: Goldfish | Version: 0.9.91)
+ * Submerged Hidden Depths (App name: 2fb0eae795104757977dfe8f93b5e593 | Version: 1.0.0.3)
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Teamfight Tactics (App name: 47b70f27b76747cdaaff7757712b8248 | Version: 1168-327)
+ * Tharsis (App name: 266d978cc221471787b597695cbb9a75 | Version: 1.03)
+ * The Captain (App name: f00b5acabb0f49a7b49e8350d1cd0de0 | Version: 1.1.4_win)
+ * The Escapists 2 (App name: Fowl | Version: 0.24)
+ * The Textorcist (App name: 50d8518151d0498b83ff5d18a7bdb68b | Version: 1.0.92PC)
+ * ToeJam & Earl: Back in the Groove! (App name: 37d84dd0b65a40e9b0719141b987a216 | Version: 1.7.3-e)
+ * Total War: WARHAMMER (App name: 30d3a88d29e24716ac5a4720042289f7 | Version: 16363.0)
+ * Total War: WARHAMMER II (App name: a019487eae90442baa6e2cc84a61447e | Version: 20415.2972041)
+ * Trackmania Starter Access (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Watch Dogs 2 (App name: Angelonia | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * World War Z (App name: Wombat | Version: 2.25)
+
+Total: 68
+[17/03/2024, 00:27:24] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * 20XX (App name: Quail | Version: 1.42.13rc1)
+ * 3 out of 10, EP 1: "Welcome To Shovelworks" (App name: Flounder | Version: R01_S01_E05_V007_CL16693)
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Automachef (App name: 069a60f6b0514a5fbe81b38957c1ddfd | Version: 15)
+ * Creature in the Well (App name: a579a08e71b341e6af106dbd170e2ab2 | Version: 1.0.0-137001-1)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * DARQ (App name: ee96375fac2f47de978170a24398e581 | Version: 1.3.2d)
+ * Dauntless (App name: Jackal | Version: 1.14.6.615145)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 9158263)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 935)
+ * Dungeons 3 (App name: 351fe5b32e22412d8fa41f4c7395fed1 | Version: v1.7 build13 @c33954b v11)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_5527)
+ * Fallout 3: Game of the Year Edition (App name: adeae8bbfc94427db57c7dfecce3f1d4 | Version: 1.11)
+ * Farming Simulator 19 (App name: Stellula | Version: 1.7.1.0o Win)
+ * FM21 Editor (App name: 5d69d0ab27814455ae0ddce0fcfbb86a | Version: 494-win-epic-editor)
+ * FM21 Resource Archiver (App name: 75c4c59461b946028448dd1bf17b64c6 | Version: 193-win-epic-resource_archiver)
+ * Football Manager 2021 (App name: ec997512b77d4dd5baf30ab5c2f8e8c9 | Version: 1540115-win)
+ * Football Manager 2021 Touch (App name: 6f5862ba65244cfe86490f253d64feb1 | Version: 1540190-win)
+ * Football Manager 2022 (App name: 29c30b4114b247678453c84ae156715d | Version: 1662587-win)
+ * Football Manager 2022 Editor (App name: 06e53aec2b194423af417babe92050db | Version: 1187-win-epic-editor)
+ * Football Manager 2022 Resource Archiver (App name: 678fd78b68e7432b82d6cbc2928d33fb | Version: 642-win-epic-resource_archiver)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-29.00-CL-32116959-Windows)
+ * GigaBash (App name: 2dc25e07aa624edf9ff132c09ce23a7c | Version: 183)
+ * God's Trigger (App name: 9bc4423d873845739cc99ab69b6bfbe9 | Version: 1.2.58760.3)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Killing Floor 2 (App name: Finch | Version: 537162-2024_01_30_21h15m50s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * League of Legends (App name: 64b0c77d07f644e6a2326a1fd7ab9926 | Version: 1168-327)
+ * Legends of Runeterra (App name: b1c759a608764049a4cbea6e979f2eeb | Version: 1168-327)
+ * Lifeless Planet: Premier Edition (App name: 860a4feefe2a4f48905ae86c61d5db64 | Version: 1.0.0)
+ * Magic The Gathering Arena (App name: stargazer | Version: 5372.1057087)
+ * Marvel's Guardians of the Galaxy (App name: 63a665088eb1480298f1e57943b225d8 | Version: 2984448)
+  + Marvel's Guardians of the Galaxy: Social-Lord Outfit (App name: 9596620d263b40c083ddf1f0c662c8ff | Version: 2978210)
+ * Nioh: The Complete Edition (App name: b5e42b0dc2f544a5bbb4080a433b8b71 | Version: Ver1.24.08.57450)
+ * Oddworld: New 'n' Tasty (App name: 7c566548d24343e48151125ced4b494c | Version: Epic 1.0)
+ * Pathway (App name: 8fceb562623c430db9bb6abf0549c43e | Version: 1.4.0_windows64)
+ * Predecessor (App name: 97b084f37e344733ac82f493ac90753c | Version: Release-128639-Shipping-plive-119464)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Quake (App name: 18161d3ef68e4166968036626d173f25 | Version: 5237)
+ * RAGE 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rocket League® (App name: Sugar | Version: BC2_Update49+443289)
+ * Rogue Company (App name: Pewee | Version: 1787)
+ * Roller Champions (App name: 540f935fa0ad4bd498177ee5ad3b54e4 | Version: 1.02)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * RollerCoaster Tycoon® 3: Complete Edition (App name: 281a47e363284108b82bf05c1a612145 | Version: 3.2.5.13)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * SAMURAI SHODOWN NEOGEO COLLECTION (App name: 75553c71fa1744a4be89f71d5b862eae | Version: 1.0.5.4)
+ * Shadowrun Hong Kong (App name: 41470cb5755440b8b55ec3f94351133a | Version: 1.0.0)
+ * Shadowrun Returns (App name: dc29cb42f32e4a17af1d68c715fa459c | Version: 1.0.0)
+ * Shadowrun: Dragonfall - Director’s Cut (App name: 5b41454974be4d5883056ba298e53675 | Version: 1.0.0)
+ * Speed Brawl (App name: 6ffe878bb1ce490ba6d3a359a1f88df2 | Version: 1.5-cbf526615d)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Spirit of the North (App name: d2d941e5c1ec44ae9e87e9e7cdddf1dd | Version: 4.4.0)
+ * STAR WARS™ Battlefront™ II: Celebration Edition (App name: MtMassive | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin MtMassive" to activate and/or run the game.
+ * Stick it to the Man (App name: Goldfish | Version: 0.9.91)
+ * Submerged Hidden Depths (App name: 2fb0eae795104757977dfe8f93b5e593 | Version: 1.0.0.3)
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Teamfight Tactics (App name: 47b70f27b76747cdaaff7757712b8248 | Version: 1168-327)
+ * Tharsis (App name: 266d978cc221471787b597695cbb9a75 | Version: 1.03)
+ * The Captain (App name: f00b5acabb0f49a7b49e8350d1cd0de0 | Version: 1.1.4_win)
+ * The Escapists 2 (App name: Fowl | Version: 0.24)
+ * The Textorcist (App name: 50d8518151d0498b83ff5d18a7bdb68b | Version: 1.0.92PC)
+ * ToeJam & Earl: Back in the Groove! (App name: 37d84dd0b65a40e9b0719141b987a216 | Version: 1.7.3-e)
+ * Total War: WARHAMMER (App name: 30d3a88d29e24716ac5a4720042289f7 | Version: 16363.0)
+ * Total War: WARHAMMER II (App name: a019487eae90442baa6e2cc84a61447e | Version: 20415.2972041)
+ * Trackmania Starter Access (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Watch Dogs 2 (App name: Angelonia | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * World War Z (App name: Wombat | Version: 2.25)
+
+Total: 68
+[17/03/2024, 00:27:35] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 64b0c77d07f644e6a2326a1fd7ab9926 --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+{"game": {"app_name": "64b0c77d07f644e6a2326a1fd7ab9926", "title": "League of Legends", "version": "1168-327", "platform_versions": {"Windows": "1168-327"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": []}, "install": null, "manifest": {"size": 4028, "type": "binary", "version": 21, "feature_level": 21, "app_name": "814404ff6301455aa7638d490392c013", "launch_exe": "Live.exe", "launch_command": "--launch-product=league_of_legends --launch-patchline=live --thirdparty", "build_version": "1168-327", "build_id": "BaZF5IcURmS-3sm15-oyDg", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 1, "num_chunks": 68, "disk_size": 70308072, "download_size": 65774050, "tag_disk_size": [], "tag_download_size": []}}
+[17/03/2024, 00:29:49] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install 64b0c77d07f644e6a2326a1fd7ab9926 --platform Windows --base-path /run/media/stern/SSD/Games --skip-dlcs -y --skip-sdl
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Preparing download for "League of Legends" (64b0c77d07f644e6a2326a1fd7ab9926)...
+[Core] INFO: Parsing game manifest...
+[Core] INFO: Install path: /run/media/stern/SSD/Games/LeagueofLegends
+[Core] INFO: Selected CDN: fastly-download.epicgames.com (https)
+[DLM] INFO: Found 0 missing files.
+[cli] INFO: Install size: 67.05 MiB
+[cli] INFO: Download size: 62.73 MiB (Compression savings: 7.8%)
+[cli] INFO: Reusable size: 0.00 MiB (chunks) / 0.00 MiB (unchanged / skipped)
+[cli] INFO: Downloads are resumable, you can interrupt the download with CTRL-C and resume it using the same command later on.
+[DLManager] INFO: Download Manager running with process-id: 675034
+[DLManager] INFO: Starting download workers...
+[DLManager] INFO: Starting file writing worker...
+[DLManager] INFO: = Progress: 0.00% (0/76), Running for 00:00:00, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 0.00 MiB, Written: 0.00 MiB
+[DLManager] INFO:  - Cache usage: 3.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 28.95% (22/76), Running for 00:00:01, ETA: 00:00:02
+[DLManager] INFO:  - Downloaded: 17.18 MiB, Written: 19.26 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 17.16 MiB/s (raw) / 21.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 19.23 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 63.16% (48/76), Running for 00:00:02, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 42.18 MiB, Written: 43.19 MiB
+[DLManager] INFO:  - Cache usage: 25.00 MiB, active tasks: 21
+[DLManager] INFO:  + Download	- 24.97 MiB/s (raw) / 24.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 23.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 100.00% (76/76), Running for 00:00:03, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 62.73 MiB, Written: 67.05 MiB
+[DLManager] INFO:  - Cache usage: 0.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 20.52 MiB/s (raw) / 20.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 23.83 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: Waiting for installation to finish...
+[DLManager] INFO: All done! Download manager quitting...
+[cli] INFO: Finished installation process in 4.08 seconds.
+[17/03/2024, 00:29:54] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * 20XX (App name: Quail | Version: 1.42.13rc1)
+ * 3 out of 10, EP 1: "Welcome To Shovelworks" (App name: Flounder | Version: R01_S01_E05_V007_CL16693)
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Automachef (App name: 069a60f6b0514a5fbe81b38957c1ddfd | Version: 15)
+ * Creature in the Well (App name: a579a08e71b341e6af106dbd170e2ab2 | Version: 1.0.0-137001-1)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * DARQ (App name: ee96375fac2f47de978170a24398e581 | Version: 1.3.2d)
+ * Dauntless (App name: Jackal | Version: 1.14.6.615145)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 9158263)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 935)
+ * Dungeons 3 (App name: 351fe5b32e22412d8fa41f4c7395fed1 | Version: v1.7 build13 @c33954b v11)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_5527)
+ * Fallout 3: Game of the Year Edition (App name: adeae8bbfc94427db57c7dfecce3f1d4 | Version: 1.11)
+ * Farming Simulator 19 (App name: Stellula | Version: 1.7.1.0o Win)
+ * FM21 Editor (App name: 5d69d0ab27814455ae0ddce0fcfbb86a | Version: 494-win-epic-editor)
+ * FM21 Resource Archiver (App name: 75c4c59461b946028448dd1bf17b64c6 | Version: 193-win-epic-resource_archiver)
+ * Football Manager 2021 (App name: ec997512b77d4dd5baf30ab5c2f8e8c9 | Version: 1540115-win)
+ * Football Manager 2021 Touch (App name: 6f5862ba65244cfe86490f253d64feb1 | Version: 1540190-win)
+ * Football Manager 2022 (App name: 29c30b4114b247678453c84ae156715d | Version: 1662587-win)
+ * Football Manager 2022 Editor (App name: 06e53aec2b194423af417babe92050db | Version: 1187-win-epic-editor)
+ * Football Manager 2022 Resource Archiver (App name: 678fd78b68e7432b82d6cbc2928d33fb | Version: 642-win-epic-resource_archiver)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-29.00-CL-32116959-Windows)
+ * GigaBash (App name: 2dc25e07aa624edf9ff132c09ce23a7c | Version: 183)
+ * God's Trigger (App name: 9bc4423d873845739cc99ab69b6bfbe9 | Version: 1.2.58760.3)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Killing Floor 2 (App name: Finch | Version: 537162-2024_01_30_21h15m50s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * League of Legends (App name: 64b0c77d07f644e6a2326a1fd7ab9926 | Version: 1168-327)
+ * Legends of Runeterra (App name: b1c759a608764049a4cbea6e979f2eeb | Version: 1168-327)
+ * Lifeless Planet: Premier Edition (App name: 860a4feefe2a4f48905ae86c61d5db64 | Version: 1.0.0)
+ * Magic The Gathering Arena (App name: stargazer | Version: 5372.1057087)
+ * Marvel's Guardians of the Galaxy (App name: 63a665088eb1480298f1e57943b225d8 | Version: 2984448)
+  + Marvel's Guardians of the Galaxy: Social-Lord Outfit (App name: 9596620d263b40c083ddf1f0c662c8ff | Version: 2978210)
+ * Nioh: The Complete Edition (App name: b5e42b0dc2f544a5bbb4080a433b8b71 | Version: Ver1.24.08.57450)
+ * Oddworld: New 'n' Tasty (App name: 7c566548d24343e48151125ced4b494c | Version: Epic 1.0)
+ * Pathway (App name: 8fceb562623c430db9bb6abf0549c43e | Version: 1.4.0_windows64)
+ * Predecessor (App name: 97b084f37e344733ac82f493ac90753c | Version: Release-128639-Shipping-plive-119464)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Quake (App name: 18161d3ef68e4166968036626d173f25 | Version: 5237)
+ * RAGE 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rocket League® (App name: Sugar | Version: BC2_Update49+443289)
+ * Rogue Company (App name: Pewee | Version: 1787)
+ * Roller Champions (App name: 540f935fa0ad4bd498177ee5ad3b54e4 | Version: 1.02)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * RollerCoaster Tycoon® 3: Complete Edition (App name: 281a47e363284108b82bf05c1a612145 | Version: 3.2.5.13)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * SAMURAI SHODOWN NEOGEO COLLECTION (App name: 75553c71fa1744a4be89f71d5b862eae | Version: 1.0.5.4)
+ * Shadowrun Hong Kong (App name: 41470cb5755440b8b55ec3f94351133a | Version: 1.0.0)
+ * Shadowrun Returns (App name: dc29cb42f32e4a17af1d68c715fa459c | Version: 1.0.0)
+ * Shadowrun: Dragonfall - Director’s Cut (App name: 5b41454974be4d5883056ba298e53675 | Version: 1.0.0)
+ * Speed Brawl (App name: 6ffe878bb1ce490ba6d3a359a1f88df2 | Version: 1.5-cbf526615d)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Spirit of the North (App name: d2d941e5c1ec44ae9e87e9e7cdddf1dd | Version: 4.4.0)
+ * STAR WARS™ Battlefront™ II: Celebration Edition (App name: MtMassive | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin MtMassive" to activate and/or run the game.
+ * Stick it to the Man (App name: Goldfish | Version: 0.9.91)
+ * Submerged Hidden Depths (App name: 2fb0eae795104757977dfe8f93b5e593 | Version: 1.0.0.3)
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Teamfight Tactics (App name: 47b70f27b76747cdaaff7757712b8248 | Version: 1168-327)
+ * Tharsis (App name: 266d978cc221471787b597695cbb9a75 | Version: 1.03)
+ * The Captain (App name: f00b5acabb0f49a7b49e8350d1cd0de0 | Version: 1.1.4_win)
+ * The Escapists 2 (App name: Fowl | Version: 0.24)
+ * The Textorcist (App name: 50d8518151d0498b83ff5d18a7bdb68b | Version: 1.0.92PC)
+ * ToeJam & Earl: Back in the Groove! (App name: 37d84dd0b65a40e9b0719141b987a216 | Version: 1.7.3-e)
+ * Total War: WARHAMMER (App name: 30d3a88d29e24716ac5a4720042289f7 | Version: 16363.0)
+ * Total War: WARHAMMER II (App name: a019487eae90442baa6e2cc84a61447e | Version: 20415.2972041)
+ * Trackmania Starter Access (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Watch Dogs 2 (App name: Angelonia | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * World War Z (App name: Wombat | Version: 2.25)
+
+Total: 68
+[17/03/2024, 00:30:43] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix "/home/stern/Games/Heroic/Prefixes/default/League of Legends"
+[cli] INFO: Using prefix "/home/stern/Games/Heroic/Prefixes/default/League of Legends"
+[cli] INFO: No Legendary-managed installation found.
+[cli] INFO: Found available Overlay installations in:
+[cli] INFO: Overlay enabled: No
+[cli] INFO: Enabled Overlay path: None
+[cli] INFO: No enabled Vulkan layers.
+[17/03/2024, 00:30:46] HEROIC_APP_NAME=64b0c77d07f644e6a2326a1fd7ab9926 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic STEAM_COMPAT_INSTALL_PATH=/run/media/stern/SSD/Games/LeagueofLegends LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/stern/Games/Heroic/Prefixes/default/League of Legends" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/stern/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/stern/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64/gstreamer-1.0:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib/gstreamer-1.0 WINEDLLPATH=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64/wine:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib/wine LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 64b0c77d07f644e6a2326a1fd7ab9926 --wine /home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wine --language en
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching 64b0c77d07f644e6a2326a1fd7ab9926...
+01a4:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 0516FEF8
+00f4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+00f4:fixme:nls:get_dummy_preferred_ui_language (0x8 0x809 0481E2E0 0481E31C 0481E2E4) returning a dummy value (current locale)
+01f8:fixme:oleacc:find_class_data unhandled window class: L"#32769"
+01f8:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+01f8:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+01f8:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000034FF78, 000000000021FAC0: stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000092BBF8, 0000000001B2FAA0: stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000034E2F8, 0000000001B2FAA0: stub!
+022c:fixme:advapi:GetEffectiveRightsFromAclW 07593534 0DE9F05C 0DE9F074 - stub
+022c:fixme:advapi:GetEffectiveRightsFromAclW 07593534 0DE9F05C 0DE9F074 - stub
+022c:fixme:advapi:GetEffectiveRightsFromAclW 0643C4D4 0DE9F05C 0DE9F074 - stub
+022c:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+022c:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+022c:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+022c:fixme:advapi:GetEffectiveRightsFromAclW 0751927C 0DE9F05C 0DE9F074 - stub
+0268:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 0536FEF8
+0264:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0284:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+0284:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+0284:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+0230:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+01c0:fixme:imm:ImeSetActiveContext himc 0000000000010026, flag 0 stub!
+00f4:fixme:imm:ImeSetActiveContext himc 0001005C, flag 0x1 stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:msaa_provider_GetPatternProvider Unimplemented patternId 10002
+0204:fixme:uiautomation:nc_provider_GetPatternProvider 0000000000928B00, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:base_hwnd_provider_GetPatternProvider 0000000000928A70, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000034E378, 0000000001B2FAA0: stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 0000000000928848, 0000000001B2FAA0: stub!
+0204:fixme:oleacc:find_class_data unhandled window class: L"#32769"
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:msaa_provider_GetPatternProvider Unimplemented patternId 10002
+0204:fixme:uiautomation:nc_provider_GetPatternProvider 0000000000928B00, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:base_hwnd_provider_GetPatternProvider 0000000000928A70, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:base_hwnd_provider_GetPatternProvider 000000000091B960, 10002, 0000000001B2ECA0: stub
+wine client error:264: write: Bad file descriptor
+[17/03/2024, 00:35:21] LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * 20XX (App name: Quail | Version: 1.42.13rc1)
+ * 3 out of 10, EP 1: "Welcome To Shovelworks" (App name: Flounder | Version: R01_S01_E05_V007_CL16693)
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Automachef (App name: 069a60f6b0514a5fbe81b38957c1ddfd | Version: 15)
+ * Creature in the Well (App name: a579a08e71b341e6af106dbd170e2ab2 | Version: 1.0.0-137001-1)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * DARQ (App name: ee96375fac2f47de978170a24398e581 | Version: 1.3.2d)
+ * Dauntless (App name: Jackal | Version: 1.14.6.615145)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 9158263)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 935)
+ * Dungeons 3 (App name: 351fe5b32e22412d8fa41f4c7395fed1 | Version: v1.7 build13 @c33954b v11)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_5527)
+ * Fallout 3: Game of the Year Edition (App name: adeae8bbfc94427db57c7dfecce3f1d4 | Version: 1.11)
+ * Farming Simulator 19 (App name: Stellula | Version: 1.7.1.0o Win)
+ * FM21 Editor (App name: 5d69d0ab27814455ae0ddce0fcfbb86a | Version: 494-win-epic-editor)
+ * FM21 Resource Archiver (App name: 75c4c59461b946028448dd1bf17b64c6 | Version: 193-win-epic-resource_archiver)
+ * Football Manager 2021 (App name: ec997512b77d4dd5baf30ab5c2f8e8c9 | Version: 1540115-win)
+ * Football Manager 2021 Touch (App name: 6f5862ba65244cfe86490f253d64feb1 | Version: 1540190-win)
+ * Football Manager 2022 (App name: 29c30b4114b247678453c84ae156715d | Version: 1662587-win)
+ * Football Manager 2022 Editor (App name: 06e53aec2b194423af417babe92050db | Version: 1187-win-epic-editor)
+ * Football Manager 2022 Resource Archiver (App name: 678fd78b68e7432b82d6cbc2928d33fb | Version: 642-win-epic-resource_archiver)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-29.00-CL-32116959-Windows)
+ * GigaBash (App name: 2dc25e07aa624edf9ff132c09ce23a7c | Version: 183)
+ * God's Trigger (App name: 9bc4423d873845739cc99ab69b6bfbe9 | Version: 1.2.58760.3)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Killing Floor 2 (App name: Finch | Version: 537162-2024_01_30_21h15m50s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * League of Legends (App name: 64b0c77d07f644e6a2326a1fd7ab9926 | Version: 1168-327)
+ * Legends of Runeterra (App name: b1c759a608764049a4cbea6e979f2eeb | Version: 1168-327)
+ * Lifeless Planet: Premier Edition (App name: 860a4feefe2a4f48905ae86c61d5db64 | Version: 1.0.0)
+ * Magic The Gathering Arena (App name: stargazer | Version: 5372.1057087)
+ * Marvel's Guardians of the Galaxy (App name: 63a665088eb1480298f1e57943b225d8 | Version: 2984448)
+  + Marvel's Guardians of the Galaxy: Social-Lord Outfit (App name: 9596620d263b40c083ddf1f0c662c8ff | Version: 2978210)
+ * Nioh: The Complete Edition (App name: b5e42b0dc2f544a5bbb4080a433b8b71 | Version: Ver1.24.08.57450)
+ * Oddworld: New 'n' Tasty (App name: 7c566548d24343e48151125ced4b494c | Version: Epic 1.0)
+ * Pathway (App name: 8fceb562623c430db9bb6abf0549c43e | Version: 1.4.0_windows64)
+ * Predecessor (App name: 97b084f37e344733ac82f493ac90753c | Version: Release-128639-Shipping-plive-119464)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Quake (App name: 18161d3ef68e4166968036626d173f25 | Version: 5237)
+ * RAGE 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rocket League® (App name: Sugar | Version: BC2_Update49+443289)
+ * Rogue Company (App name: Pewee | Version: 1787)
+ * Roller Champions (App name: 540f935fa0ad4bd498177ee5ad3b54e4 | Version: 1.02)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * RollerCoaster Tycoon® 3: Complete Edition (App name: 281a47e363284108b82bf05c1a612145 | Version: 3.2.5.13)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * SAMURAI SHODOWN NEOGEO COLLECTION (App name: 75553c71fa1744a4be89f71d5b862eae | Version: 1.0.5.4)
+ * Shadowrun Hong Kong (App name: 41470cb5755440b8b55ec3f94351133a | Version: 1.0.0)
+ * Shadowrun Returns (App name: dc29cb42f32e4a17af1d68c715fa459c | Version: 1.0.0)
+ * Shadowrun: Dragonfall - Director’s Cut (App name: 5b41454974be4d5883056ba298e53675 | Version: 1.0.0)
+ * Speed Brawl (App name: 6ffe878bb1ce490ba6d3a359a1f88df2 | Version: 1.5-cbf526615d)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Spirit of the North (App name: d2d941e5c1ec44ae9e87e9e7cdddf1dd | Version: 4.4.0)
+ * STAR WARS™ Battlefront™ II: Celebration Edition (App name: MtMassive | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin MtMassive" to activate and/or run the game.
+ * Stick it to the Man (App name: Goldfish | Version: 0.9.91)
+ * Submerged Hidden Depths (App name: 2fb0eae795104757977dfe8f93b5e593 | Version: 1.0.0.3)
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Teamfight Tactics (App name: 47b70f27b76747cdaaff7757712b8248 | Version: 1168-327)
+ * Tharsis (App name: 266d978cc221471787b597695cbb9a75 | Version: 1.03)
+ * The Captain (App name: f00b5acabb0f49a7b49e8350d1cd0de0 | Version: 1.1.4_win)
+ * The Escapists 2 (App name: Fowl | Version: 0.24)
+ * The Textorcist (App name: 50d8518151d0498b83ff5d18a7bdb68b | Version: 1.0.92PC)
+ * ToeJam & Earl: Back in the Groove! (App name: 37d84dd0b65a40e9b0719141b987a216 | Version: 1.7.3-e)
+ * Total War: WARHAMMER (App name: 30d3a88d29e24716ac5a4720042289f7 | Version: 16363.0)
+ * Total War: WARHAMMER II (App name: a019487eae90442baa6e2cc84a61447e | Version: 20415.2972041)
+ * Trackmania Starter Access (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Watch Dogs 2 (App name: Angelonia | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * World War Z (App name: Wombat | Version: 2.25)
+
+Total: 68

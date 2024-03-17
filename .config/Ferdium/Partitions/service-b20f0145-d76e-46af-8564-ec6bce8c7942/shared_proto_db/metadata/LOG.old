@@ -1,0 +1,2 @@
+2024/03/16-20:59:35.988 4384e Creating DB /home/stern/.config/Ferdium/Partitions/service-b20f0145-d76e-46af-8564-ec6bce8c7942/shared_proto_db/metadata since it was missing.
+2024/03/16-20:59:35.998 4384e Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-b20f0145-d76e-46af-8564-ec6bce8c7942/shared_proto_db/metadata/MANIFEST-000001

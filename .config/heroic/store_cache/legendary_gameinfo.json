@@ -1,0 +1,62 @@
+{
+	"24b9b5e323bc40eea252a10cdd3b2f10": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/epic-1200x1600-1200x1600-62d626f118e0.png",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Riot Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Riot Games",
+			"description": "# PLAY FOR FREE, PLAY TO WIN\n\nShowcase your skills in the ultimate 5v5 battle arena that combines team strategy with solo mastery. Pick your role, perfect your build, and fight your way across the map to destroy the enemy Nexus. Always free to play—may the best team win.\n\n# CHOOSE YOUR CHAMPION\n\nWith over 150+ champions to choose from, there’s a playstyle for everyone. Sneak in as an assassin, mow ‘em down as a marksman, or shield your teammates as a support. From elegant swordmasters to hulking beasts, pick from a diverse, always-growing roster and play your own way.\n\n# SHARPEN YOUR SKILLS\n\nClimb the ranked ladder and prove your mastery in the most competitive Esport in the world. Dive into solo queue, grab a partner, or Flex as a team to face off against similar players and earn your place at the top. The competition’s good—but you’re going to be better.\n\n# PLAY WITH FRIENDS\n\nThe taste of victory is sweeter with friends. Assemble your dream team, pick a role, and work together to defeat even the most daunting of foes. Ready for a challenge? Gather your crew for Clash tournaments to crush the competition and earn exclusive rewards.\n\n# FRESH GAME MODES\n\nWhether you want to strategize on Summoner’s Rift or unleash mayhem in All Random, All Mid mode, explore all the different ways to play League. With a monthly rotation of unique game modes, you never know when you’ll find a new favorite.\n\n# STYLE ON ‘EM\n\nExpress yourself in a universe of alternate fantasies. Slay in style as a cyberpunk hunter, a celestial guardian, or an intergalactic smuggler. Want to play as a cowboy? A pop star? A literal bee? It’s all up to you. Skins, icons, and other cosmetics are available in the store, or play games to unlock crates for free.\n",
+			"shortDescription": "Become a legend. Find your champion, master their abilities, and outplay your opponents in an epic 5v5 battle to destroy the enemy base.    ",
+			"title": "League of Legends",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Win 7, 8, 10",
+				"recommended": "Win 10"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel: Core i3-530 AMD: A6-3650 ARM: not supported",
+				"recommended": "Intel: Core i5-3300 AMD: Ryzen 3 1200 ARM: not supported"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "2GB",
+				"recommended": "4GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "16GB HDD",
+				"recommended": "16GB SSD"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "DX10-Level Hardware",
+				"recommended": "DX11-Level Hardware"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVidia: GeForce 9600GT AMD: HD 6570 Intel: Intel HD 4600 Integrated Graphics",
+				"recommended": "NVidia: GeForce 560 AMD: Radeon HD 6950 Intel: Intel UHD 630 Integrated Graphics"
+			}
+		],
+		"releaseDate": "2009-10-27T04:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/league-of-legends"
+	},
+	"__timestamp": {
+		"24b9b5e323bc40eea252a10cdd3b2f10": "Sun Mar 17 2024 00:29:03 GMT+0000 (Greenwich Mean Time)"
+	}
+}

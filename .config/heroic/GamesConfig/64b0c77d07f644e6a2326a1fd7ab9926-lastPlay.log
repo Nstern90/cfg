@@ -1,0 +1,114 @@
+Launching "League of Legends" (legendary)
+Native? No
+Installed in: /run/media/stern/SSD/Games/LeagueofLegends
+
+System Info:
+CPU: 12x AMD Ryzen 5 3600 6-Core Processor
+Memory: 33.57 GB (used: 9.52 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Radeon RX 6700 XT GAMING OC 12G [Sapphire PULSE]
+    IDs: D=73df V=1002 SD=445e SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.6.21-1-lts (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.13.0 Dorry & Broggy
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.0
+  Nile: 1.0.1 Jonathan Joestar
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallDxvkNvapi": false,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"battlEyeRuntime": true,
+	"eacRuntime": true,
+	"language": "",
+	"wineVersion": {
+		"bin": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wine",
+		"name": "Wine - Wine-GE-LOL-p8-12",
+		"type": "wine",
+		"lib": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64",
+		"lib32": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib",
+		"wineserver": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wineserver"
+	},
+	"winePrefix": "/home/stern/Games/Heroic/Prefixes/default/League of Legends",
+	"wineCrossoverBottle": ""
+}
+
+Game launched at: Sun Mar 17 2024 00:30:03 GMT+0000 (Greenwich Mean Time)
+
+Launch Command: HEROIC_APP_NAME=64b0c77d07f644e6a2326a1fd7ab9926 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic STEAM_COMPAT_INSTALL_PATH=/run/media/stern/SSD/Games/LeagueofLegends LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/stern/Games/Heroic/Prefixes/default/League of Legends" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/stern/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/stern/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64/gstreamer-1.0:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib/gstreamer-1.0 WINEDLLPATH=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64/wine:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib/wine /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 64b0c77d07f644e6a2326a1fd7ab9926 --wine /home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wine --language en
+
+Game Log:
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching 64b0c77d07f644e6a2326a1fd7ab9926...
+01a4:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 0516FEF8
+00f4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+00f4:fixme:nls:get_dummy_preferred_ui_language (0x8 0x809 0481E2E0 0481E31C 0481E2E4) returning a dummy value (current locale)
+01f8:fixme:oleacc:find_class_data unhandled window class: L"#32769"
+01f8:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+01f8:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+01f8:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000034FF78, 000000000021FAC0: stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000092BBF8, 0000000001B2FAA0: stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000034E2F8, 0000000001B2FAA0: stub!
+022c:fixme:advapi:GetEffectiveRightsFromAclW 07593534 0DE9F05C 0DE9F074 - stub
+022c:fixme:advapi:GetEffectiveRightsFromAclW 07593534 0DE9F05C 0DE9F074 - stub
+022c:fixme:advapi:GetEffectiveRightsFromAclW 0643C4D4 0DE9F05C 0DE9F074 - stub
+022c:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+022c:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+022c:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+022c:fixme:advapi:GetEffectiveRightsFromAclW 0751927C 0DE9F05C 0DE9F074 - stub
+0268:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 0536FEF8
+0264:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0284:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+0284:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+0284:fixme:file:NtFsControlFile FSCTL_GET_REPARSE_POINT semi-stub
+0230:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+01c0:fixme:imm:ImeSetActiveContext himc 0000000000010026, flag 0 stub!
+00f4:fixme:imm:ImeSetActiveContext himc 0001005C, flag 0x1 stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:msaa_provider_GetPatternProvider Unimplemented patternId 10002
+0204:fixme:uiautomation:nc_provider_GetPatternProvider 0000000000928B00, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:base_hwnd_provider_GetPatternProvider 0000000000928A70, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 000000000034E378, 0000000001B2FAA0: stub!
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:msaa_fragment_get_FragmentRoot 0000000000928848, 0000000001B2FAA0: stub!
+0204:fixme:oleacc:find_class_data unhandled window class: L"#32769"
+0204:fixme:uiautomation:uia_get_providers_for_hwnd Override provider callback currently unimplemented.
+0204:fixme:uiautomation:msaa_provider_GetPropertyValue Unimplemented propertyId 30024
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:msaa_provider_GetPatternProvider Unimplemented patternId 10002
+0204:fixme:uiautomation:nc_provider_GetPatternProvider 0000000000928B00, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:base_hwnd_provider_GetPatternProvider 0000000000928A70, 10002, 0000000001B2ECA0: stub
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:uia_element_GetCurrentPropertyValueEx Default property values currently unimplemented
+0204:fixme:uiautomation:base_hwnd_provider_GetPatternProvider 000000000091B960, 10002, 0000000001B2ECA0: stub
+wine client error:264: write: Bad file descriptor
+============= End of log =============

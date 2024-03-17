@@ -1,0 +1,30 @@
+{
+  "64b0c77d07f644e6a2326a1fd7ab9926": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": false,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "wineVersion": {
+      "bin": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wine",
+      "name": "Wine - Wine-GE-LOL-p8-12",
+      "type": "wine",
+      "lib": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64",
+      "lib32": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib",
+      "wineserver": "/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wineserver"
+    },
+    "winePrefix": "/home/stern/Games/Heroic/Prefixes/default/League of Legends",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

@@ -1,0 +1,242 @@
+(00:27:21) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(00:27:21) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(00:27:21) INFO:    [Connection]:       Connectivity: check-online
+(00:27:21) INFO:    [Connection]:       Pinging external endpoints
+(00:27:21) INFO:    [Gog]:              Checking for existing gog manifests
+(00:27:21) INFO:    [Nile]:             Refreshing library...
+(00:27:21) INFO:    [Nile]:             Refreshing Amazon Games...
+(00:27:21) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+(00:27:21) INFO:    [Nile]:             Game list updated, got 328 games
+(00:27:21) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "new",
+    "version": "4.10.2710.0"
+  }
+}
+(00:27:21) WARNING: [Backend]:          Protocol already registered.
+(00:27:21) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(00:27:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json --version
+(00:27:21) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(00:27:21) INFO:    [Connection]:       Connectivity: online
+(00:27:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(00:27:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(00:27:21) INFO:    [Gog]:              Checking if login is valid
+(00:27:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(00:27:21) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(00:27:21) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 3600 6-Core Processor
+Memory: 33.57 GB (used: 9.52 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Radeon RX 6700 XT GAMING OC 12G [Sapphire PULSE]
+    IDs: D=73df V=1002 SD=445e SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.6.21-1-lts (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.13.0 Dorry & Broggy
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.0
+  Nile: 1.0.1 Jonathan Joestar
+
+(00:27:22) INFO:    [Gog]:              Getting game metadata: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json info gog-redist --os windows
+(00:27:22) INFO:    [Nile]:             Saved user data to config file
+(00:27:22) INFO:    [Frontend]:         Refreshing undefined Library
+(00:27:22) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(00:27:22) INFO:    [Legendary]:        Refreshing library...
+(00:27:22) INFO:    [Legendary]:        Refreshing Epic Games...
+(00:27:22) INFO:    [Nile]:             Refreshing library...
+(00:27:22) INFO:    [Nile]:             Refreshing Amazon Games...
+(00:27:22) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+(00:27:22) INFO:    [Nile]:             Game list updated, got 328 games
+(00:27:22) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(00:27:22) INFO:    [Backend]:          Frontend Ready
+(00:27:22) INFO:    [Backend]:          Checking for new Heroic Updates
+(00:27:22) INFO:    [Backend]:          Checking for current version changelog
+(00:27:22) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(00:27:22) INFO:    [Gog]:              Getting GOG library
+(00:27:22) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(00:27:22) ERROR:   [Gog]:              stdout = false and res.abort = false in getInstallInfo
+(00:27:22) INFO:    [DownloadManager]:  Galaxy Common Redistributables  was added to the download queue.
+(00:27:22) INFO:    [Gog]:              Updating GOG redistributables
+(00:27:22) INFO:    [Gog]:              GOG REDIST:: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json redist --ids ISI --path /home/stern/.config/heroic/tools/redist/gog
+(00:27:22) DEBUG:   [Gog]:              Logging to file "/home/stern/.config/heroic/GamesConfig/gog-redist.log"
+(00:27:22) INFO:    [Gog]:              Saved username to config file
+(00:27:22) INFO:    [Backend]:          Preventing machine to sleep
+(00:27:23) INFO:    [Gog]:              Progress for Galaxy Common Redistributables: 0%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(00:27:23) INFO:    [Legendary]:        Game list updated, got 69 games & DLCs
+(00:27:23) INFO:    [Gog]:              Saved games data
+(00:27:23) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(00:27:23) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(00:27:24) INFO:    [Winetricks]:       Downloading Winetricks
+(00:27:24) INFO:    [Gog]:              Progress for Galaxy Common Redistributables: 100%/1.11MB/00:00:00 Down: 1.11MB/s / Disk: 1.2MB/s
+(00:27:24) INFO:    [DownloadManager]:  gog-redist added to download manager finished.
+(00:27:24) INFO:    [DownloadManager]:  gog-redist removed from download manager.
+(00:27:24) INFO:    [Gog]:              Found 0 game(s) to update
+(00:27:24) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(00:27:25) WARNING: [Legendary]:        Failed to parse games from /home/stern/.config/heroic/legendaryConfig/legendary/installed.json with: Error: ENOENT: no such file or directory, open '/home/stern/.config/heroic/legendaryConfig/legendary/installed.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.func [as openSync] (node:electron/js2c/asar_bundle:2:2131)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.readFileSync (node:electron/js2c/asar_bundle:2:9462)
+    at Module.listUpdateableGames (/opt/Heroic/resources/app.asar/build/electron/main.ac42ed07.js:112:5070)
+    at async /opt/Heroic/resources/app.asar/build/electron/main.ac42ed07.js:231:3633
+    at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:88992)
+(00:27:25) INFO:    [Legendary]:        Found 0 games to update
+(00:27:25) INFO:    [Nile]:             Looking for updates...
+(00:27:25) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile list-updates --json
+(00:27:26) INFO:    [WineDownloader]:   Updating wine versions info
+(00:27:26) INFO:    [WineDownloader]:   Fetching upstream information...
+(00:27:27) INFO:    [Backend]:          Starting the Download Queue
+(00:27:27) INFO:    [WineDownloader]:   wine versions updated
+(00:27:35) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(00:27:35) DEBUG:   [Backend]:          {"free":458301906944,"diskSize":489605644288,"message":"426.83 GiB / 455.98 GiB","validPath":true,"validFlatpakPath":true}
+(00:27:35) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 64b0c77d07f644e6a2326a1fd7ab9926 --json --platform Windows
+(00:27:37) DEBUG:   [Backend]:          {"free":458301906944,"diskSize":489605644288,"message":"426.83 GiB / 455.98 GiB","validPath":true,"validFlatpakPath":true}
+(00:27:43) DEBUG:   [Backend]:          {"free":35685777408,"diskSize":256051773440,"message":"33.23 GiB / 238.47 GiB","validPath":true,"validFlatpakPath":true}
+(00:28:03) INFO:    [WineDownloader]:   Start installation of wine version Wine-GE-LOL-p8-12
+(00:28:05) INFO:    [Backend]:          Downloaded: 9.07 MB / 88.05 MB  @6.32 MB/s (10.30%)
+(00:28:06) INFO:    [Backend]:          Downloaded: 36.09 MB / 88.05 MB  @24.66 MB/s (40.98%)
+(00:28:07) INFO:    [Backend]:          Downloaded: 60.81 MB / 88.05 MB  @24.58 MB/s (69.07%)
+(00:28:09) INFO:    [Backend]:          Downloaded: 88.05 MB / 88.05 MB  @24.67 MB/s (100.00%)
+(00:28:09) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-LOL-p8-12/wine-lutris-ge-lol-p8-12-x86_64.tar.xz
+(00:28:09) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/wine/wine-lutris-ge-lol-p8-12-x86_64.tar.xz to /home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12 using native tar
+(00:28:13) INFO:    [WineDownloader]:   Finished installation of wine version Wine-GE-LOL-p8-12
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting GamesDB data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for League of Legends
+(00:29:03) INFO:    [ExtraGameInfo]:    Getting GamesDB data for League of Legends
+(00:29:03) DEBUG:   [Legendary]:        Using cached install info
+(00:29:03) DEBUG:   [Legendary]:        Using cached install info
+(00:29:03) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(00:29:03) INFO:    [Legendary]:        Getting Info from Epic API
+(00:29:04) ERROR:   [ExtraGameInfo]:    Was not able to get ProtonDB data for 20590 undefined
+(00:29:04) DEBUG:   [Backend]:          No response when getting ProtonDB info
+(00:29:04) DEBUG:   [Backend]:          SteamDeck data for 20590 {"success":1,"results":[]}
+(00:29:04) ERROR:   [Backend]:          No resolved_category in response, API changed?
+(00:29:04) ERROR:   [ExtraGameInfo]:    Was not able to get ProtonDB data for 20590 undefined
+(00:29:04) DEBUG:   [Backend]:          No response when getting ProtonDB info
+(00:29:04) DEBUG:   [Backend]:          SteamDeck data for 20590 {"success":1,"results":[]}
+(00:29:04) ERROR:   [Backend]:          No resolved_category in response, API changed?
+(00:29:09) DEBUG:   [Legendary]:        Using cached install info
+(00:29:09) DEBUG:   [Backend]:          {"free":458047094784,"diskSize":489605644288,"message":"426.59 GiB / 455.98 GiB","validPath":true,"validFlatpakPath":true}
+(00:29:09) DEBUG:   [Backend]:          {"free":458047094784,"diskSize":489605644288,"message":"426.59 GiB / 455.98 GiB","validPath":true,"validFlatpakPath":true}
+(00:29:32) DEBUG:   [Legendary]:        Using cached install info
+(00:29:32) DEBUG:   [Backend]:          {"free":458041896960,"diskSize":489605644288,"message":"426.58 GiB / 455.98 GiB","validPath":true,"validFlatpakPath":true}
+(00:29:32) DEBUG:   [Backend]:          {"free":458041896960,"diskSize":489605644288,"message":"426.58 GiB / 455.98 GiB","validPath":true,"validFlatpakPath":true}
+(00:29:39) DEBUG:   [Backend]:          {"free":35685777408,"diskSize":256051773440,"message":"33.23 GiB / 238.47 GiB","validPath":true,"validFlatpakPath":true}
+(00:29:49) INFO:    [Backend]:          Writing config for 64b0c77d07f644e6a2326a1fd7ab9926
+(00:29:49) INFO:    [Backend]:          Changed config: wineVersion from {"bin":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wine","name":"Wine - Wine-GE-Proton8-26","type":"wine","lib":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib64","lib32":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib","wineserver":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wineserver"} to {"bin":"/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wine","name":"Wine - Wine-GE-LOL-p8-12","type":"wine","lib":"/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64","lib32":"/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib","wineserver":"/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wineserver"}
+(00:29:49) INFO:    [Backend]:          Changed config: winePrefix from /home/stern/Games/Heroic/Prefixes/default to /home/stern/Games/Heroic/Prefixes/default/League of Legends
+(00:29:49) INFO:    [Backend]:          Changed config: wineCrossoverBottle from undefined to 
+(00:29:49) DEBUG:   [Legendary]:        Using cached install info
+(00:29:49) INFO:    [DownloadManager]:  League of Legends  was added to the download queue.
+(00:29:49) INFO:    [Backend]:          Preventing machine to sleep
+(00:29:49) DEBUG:   [Legendary]:        Using cached install info
+(00:29:49) DEBUG:   [Legendary]:        Using cached install info
+(00:29:49) DEBUG:   [Legendary]:        Using cached install info
+(00:29:49) INFO:    [Legendary]:        Installing 64b0c77d07f644e6a2326a1fd7ab9926: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install 64b0c77d07f644e6a2326a1fd7ab9926 --platform Windows --base-path /run/media/stern/SSD/Games --skip-dlcs -y --skip-sdl
+(00:29:49) DEBUG:   [Legendary]:        Logging to file "/home/stern/.config/heroic/GamesConfig/64b0c77d07f644e6a2326a1fd7ab9926.log"
+(00:29:49) DEBUG:   [Legendary]:        Using cached install info
+(00:29:49) DEBUG:   [Legendary]:        Using cached install info
+(00:29:49) ERROR:   [DownloadManager]:  Downloader: Failed to get headers for https://raw.githubusercontent.com/Heroic-Games-Launcher/known-fixes/main/epic/64b0c77d07f644e6a2326a1fd7ab9926-epic.json. 
+Error: Error: Request failed with status code 404
+(00:29:50) INFO:    [Legendary]:        Progress for League of Legends: 0%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(00:29:51) INFO:    [Legendary]:        Progress for League of Legends: 27.39%/17.18MB/00:00:02 Down: 17.16MB/s / Disk: 19.23MB/s
+(00:29:52) INFO:    [Legendary]:        Progress for League of Legends: 67.24%/42.18MB/00:00:01 Down: 24.97MB/s / Disk: 23.9MB/s
+(00:29:53) INFO:    [Legendary]:        Progress for League of Legends: 100%/62.73MB/00:00:00 Down: 20.52MB/s / Disk: 23.83MB/s
+(00:29:54) INFO:    [Backend]:          Adding shortcuts for League of Legends
+(00:29:54) INFO:    [DownloadManager]:  Finished Installation of 64b0c77d07f644e6a2326a1fd7ab9926
+(00:29:54) INFO:    [DownloadManager]:  64b0c77d07f644e6a2326a1fd7ab9926 added to download manager finished.
+(00:29:54) INFO:    [DownloadManager]:  64b0c77d07f644e6a2326a1fd7ab9926 removed from download manager.
+(00:29:54) INFO:    [Frontend]:         Refreshing legendary Library
+(00:29:54) INFO:    [Legendary]:        Refreshing library...
+(00:29:54) INFO:    [Legendary]:        Refreshing Epic Games...
+(00:29:54) INFO:    [Backend]:          Stopping Power Saver Blocker
+(00:29:54) DEBUG:   [Legendary]:        Using cached install info
+(00:29:54) DEBUG:   [Legendary]:        Using cached install info
+(00:29:54) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(00:29:54) INFO:    [DownloadManager]:  Downloader: Finished downloading https://cdn1.epicgames.com/item/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-905a96cea329205358868f5871393042
+(00:29:56) INFO:    [Legendary]:        Game list updated, got 69 games & DLCs
+(00:29:56) DEBUG:   [Legendary]:        Using cached install info
+(00:29:56) DEBUG:   [Legendary]:        Using cached install info
+(00:29:56) DEBUG:   [Legendary]:        Using cached install info
+(00:29:56) DEBUG:   [Legendary]:        Using cached install info
+(00:30:03) INFO:    [Backend]:          Launching League of Legends (64b0c77d07f644e6a2326a1fd7ab9926)
+(00:30:03) INFO:    [Backend]:          Preventing display from sleep
+(00:30:03) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:03) DEBUG:   [Legendary]:        Using cached install info
+(00:30:03) DEBUG:   [Legendary]:        Using cached install info
+(00:30:03) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:03) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:03) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:03) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(00:30:32) INFO:    [Backend]:          Created/Updated Wineprefix at /home/stern/Games/Heroic/Prefixes/default/League of Legends
+(00:30:32) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:32) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CLASSES_ROOT\com.epicgames.launcher /f
+(00:30:32) DEBUG:   [Legendary]:        Using cached install info
+(00:30:32) DEBUG:   [Legendary]:        Using cached install info
+(00:30:43) DEBUG:   [Legendary]:        Using cached install info
+(00:30:43) INFO:    [Legendary]:        Checking if EOS Overlay is enabled: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix "/home/stern/Games/Heroic/Prefixes/default/League of Legends"
+(00:30:44) INFO:    [Legendary]:        Abort command "LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix "/home/stern/Games/Heroic/Prefixes/default/League of Legends""
+(00:30:44) INFO:    [DXVKInstaller]:    installing dxvk on... /home/stern/Games/Heroic/Prefixes/default/League of Legends
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d10core /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d11 /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d9 /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v dxgi /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d10core /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d11 /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d9 /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v dxgi /d native,builtin /f
+(00:30:44) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/stern/Games/Heroic/Prefixes/default/League of Legends
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-LOL-p8-12
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12 /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12core /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12 /d native,builtin /f
+(00:30:44) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12core /d native,builtin /f
+(00:30:44) INFO:    [Runtime]:          Downloading runtime eac_runtime with download link https://github.com/lutris/buildbot/releases/download/2022.06.23/eac_runtime-20240114.tar.xz
+(00:30:45) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/runtimes/eac_runtime-20240114.tar.xz to /home/stern/.config/heroic/tools/runtimes/eac_runtime using native tar
+(00:30:45) INFO:    [Runtime]:          Downloading runtime battleye_runtime with download link https://github.com/lutris/buildbot/releases/download/2021.11.14/battleye_runtime.tar.xz
+(00:30:46) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/runtimes/battleye_runtime.tar.xz to /home/stern/.config/heroic/tools/runtimes/battleye_runtime using native tar
+(00:30:46) INFO:    [Legendary]:        Launching League of Legends: HEROIC_APP_NAME=64b0c77d07f644e6a2326a1fd7ab9926 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic STEAM_COMPAT_INSTALL_PATH=/run/media/stern/SSD/Games/LeagueofLegends LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/stern/Games/Heroic/Prefixes/default/League of Legends" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/stern/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/stern/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64/gstreamer-1.0:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib/gstreamer-1.0 WINEDLLPATH=/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib64/wine:/home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/lib/wine LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 64b0c77d07f644e6a2326a1fd7ab9926 --wine /home/stern/.config/heroic/tools/wine/Wine-GE-LOL-p8-12/bin/wine --language en
+(00:30:46) INFO:    [Backend]:          Stopping Power Saver Blocker
+(00:30:46) DEBUG:   [Legendary]:        Using cached install info
+(00:30:46) DEBUG:   [Legendary]:        Using cached install info
+(00:35:20) INFO:    [Backend]:          Trying to kill 64b0c77d07f644e6a2326a1fd7ab9926
+(00:35:20) INFO:    [Backend]:          Killed 64b0c77d07f644e6a2326a1fd7ab9926
+(00:35:21) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(00:35:21) INFO:    [Frontend]:         Refreshing legendary Library
+(00:35:21) INFO:    [Legendary]:        Refreshing library...
+(00:35:21) INFO:    [Legendary]:        Refreshing Epic Games...
+(00:35:21) DEBUG:   [Legendary]:        Using cached install info
+(00:35:21) DEBUG:   [Legendary]:        Using cached install info
+(00:35:21) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(00:35:22) INFO:    [Legendary]:        Game list updated, got 69 games & DLCs
+(00:35:22) DEBUG:   [Legendary]:        Using cached install info
+(00:35:22) DEBUG:   [Legendary]:        Using cached install info

@@ -1,0 +1,665 @@
+2024-03-16T18:23:50.756Z [Modules] Modules initializing
+2024-03-16T18:23:50.756Z [Modules] Distribution: remote
+2024-03-16T18:23:50.756Z [Modules] Host updates: enabled
+2024-03-16T18:23:50.756Z [Modules] Module updates: enabled
+2024-03-16T18:23:50.756Z [Modules] Module install path: /home/stern/.config/discord/0.0.45/modules
+2024-03-16T18:23:50.756Z [Modules] Module installed file path: /home/stern/.config/discord/0.0.45/modules/installed.json
+2024-03-16T18:23:50.756Z [Modules] Module download path: /home/stern/.config/discord/0.0.45/modules/pending
+2024-03-16T18:23:50.959Z [Modules] Bootstrapping...
+2024-03-16T18:23:50.960Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-03-16T18:23:50.963Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-03-16T18:23:50.963Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-03-16T18:23:50.964Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-03-16T18:23:50.964Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-03-16T18:23:50.966Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-03-16T18:23:50.966Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-03-16T18:23:50.967Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-03-16T18:23:50.967Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-03-16T18:23:50.968Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-03-16T18:23:50.968Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2024-03-16T18:23:50.968Z [Modules] Checking for host updates.
+2024-03-16T18:23:51.161Z [Modules] Host is up to date.
+2024-03-16T18:23:51.162Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:23:51.212Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-03-16T18:23:51.212Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-03-16T18:23:51.212Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-03-16T18:23:51.212Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-03-16T18:23:51.212Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-03-16T18:23:51.213Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-03-16T18:23:51.213Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip
+2024-03-16T18:23:51.437Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 2%
+2024-03-16T18:23:51.448Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 5%
+2024-03-16T18:23:51.448Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 6%
+2024-03-16T18:23:51.453Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 9%
+2024-03-16T18:23:51.457Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 10%
+2024-03-16T18:23:51.460Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 12%
+2024-03-16T18:23:51.462Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 13%
+2024-03-16T18:23:51.464Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 16%
+2024-03-16T18:23:51.467Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 17%
+2024-03-16T18:23:51.470Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 20%
+2024-03-16T18:23:51.474Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 23%
+2024-03-16T18:23:51.478Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 25%
+2024-03-16T18:23:51.481Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 28%
+2024-03-16T18:23:51.484Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 31%
+2024-03-16T18:23:51.487Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 34%
+2024-03-16T18:23:51.490Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 37%
+2024-03-16T18:23:51.493Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 40%
+2024-03-16T18:23:51.497Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 43%
+2024-03-16T18:23:51.501Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 46%
+2024-03-16T18:23:51.504Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 47%
+2024-03-16T18:23:51.507Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 50%
+2024-03-16T18:23:51.513Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 52%
+2024-03-16T18:23:51.515Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 54%
+2024-03-16T18:23:51.518Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 57%
+2024-03-16T18:23:51.522Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 60%
+2024-03-16T18:23:51.525Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 63%
+2024-03-16T18:23:51.530Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 65%
+2024-03-16T18:23:51.532Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 68%
+2024-03-16T18:23:51.537Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 69%
+2024-03-16T18:23:51.540Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 70%
+2024-03-16T18:23:51.543Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 72%
+2024-03-16T18:23:51.545Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 73%
+2024-03-16T18:23:51.548Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 74%
+2024-03-16T18:23:51.550Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 75%
+2024-03-16T18:23:51.553Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 77%
+2024-03-16T18:23:51.556Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 79%
+2024-03-16T18:23:51.558Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 82%
+2024-03-16T18:23:51.563Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 84%
+2024-03-16T18:23:51.566Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 87%
+2024-03-16T18:23:51.569Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 89%
+2024-03-16T18:23:51.572Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 92%
+2024-03-16T18:23:51.575Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 93%
+2024-03-16T18:23:51.578Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 95%
+2024-03-16T18:23:51.582Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 97%
+2024-03-16T18:23:51.584Z [Modules] Streaming discord_desktop_core@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip: 100%
+2024-03-16T18:23:51.586Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-03-16T18:23:51.586Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip
+2024-03-16T18:23:51.745Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 3%
+2024-03-16T18:23:51.750Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 7%
+2024-03-16T18:23:51.751Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 8%
+2024-03-16T18:23:51.753Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 11%
+2024-03-16T18:23:51.757Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 14%
+2024-03-16T18:23:51.760Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 17%
+2024-03-16T18:23:51.761Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 18%
+2024-03-16T18:23:51.764Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 22%
+2024-03-16T18:23:51.767Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 25%
+2024-03-16T18:23:51.771Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 28%
+2024-03-16T18:23:51.773Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 31%
+2024-03-16T18:23:51.775Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 32%
+2024-03-16T18:23:51.779Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 34%
+2024-03-16T18:23:51.782Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 37%
+2024-03-16T18:23:51.786Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 40%
+2024-03-16T18:23:51.790Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 44%
+2024-03-16T18:23:51.791Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 45%
+2024-03-16T18:23:51.793Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 48%
+2024-03-16T18:23:51.795Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 49%
+2024-03-16T18:23:51.797Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 52%
+2024-03-16T18:23:51.801Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 55%
+2024-03-16T18:23:51.803Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 58%
+2024-03-16T18:23:51.805Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 59%
+2024-03-16T18:23:51.808Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 63%
+2024-03-16T18:23:51.811Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 65%
+2024-03-16T18:23:51.814Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 69%
+2024-03-16T18:23:51.818Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 72%
+2024-03-16T18:23:51.821Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 75%
+2024-03-16T18:23:51.824Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 79%
+2024-03-16T18:23:51.827Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 82%
+2024-03-16T18:23:51.830Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 86%
+2024-03-16T18:23:51.835Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 88%
+2024-03-16T18:23:51.838Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 92%
+2024-03-16T18:23:51.843Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 94%
+2024-03-16T18:23:51.845Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 98%
+2024-03-16T18:23:51.849Z [Modules] Streaming discord_erlpack@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip: 100%
+2024-03-16T18:23:51.851Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-03-16T18:23:51.851Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip
+2024-03-16T18:23:52.020Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 1%
+2024-03-16T18:23:52.021Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 2%
+2024-03-16T18:23:52.026Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 3%
+2024-03-16T18:23:52.031Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 4%
+2024-03-16T18:23:52.038Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 5%
+2024-03-16T18:23:52.041Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 6%
+2024-03-16T18:23:52.048Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 7%
+2024-03-16T18:23:52.051Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 8%
+2024-03-16T18:23:52.057Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 9%
+2024-03-16T18:23:52.062Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 10%
+2024-03-16T18:23:52.070Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 11%
+2024-03-16T18:23:52.073Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 12%
+2024-03-16T18:23:52.080Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 13%
+2024-03-16T18:23:52.083Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 14%
+2024-03-16T18:23:52.090Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 15%
+2024-03-16T18:23:52.096Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 16%
+2024-03-16T18:23:52.099Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 17%
+2024-03-16T18:23:52.106Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 18%
+2024-03-16T18:23:52.113Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 19%
+2024-03-16T18:23:52.116Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 20%
+2024-03-16T18:23:52.123Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 21%
+2024-03-16T18:23:52.130Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 22%
+2024-03-16T18:23:52.140Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 23%
+2024-03-16T18:23:52.146Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 24%
+2024-03-16T18:23:52.151Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 25%
+2024-03-16T18:23:52.156Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 26%
+2024-03-16T18:23:52.166Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 27%
+2024-03-16T18:23:52.170Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 28%
+2024-03-16T18:23:52.179Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 29%
+2024-03-16T18:23:52.186Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 30%
+2024-03-16T18:23:52.194Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 31%
+2024-03-16T18:23:52.200Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 32%
+2024-03-16T18:23:52.204Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 33%
+2024-03-16T18:23:52.212Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 34%
+2024-03-16T18:23:52.216Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 35%
+2024-03-16T18:23:52.222Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 36%
+2024-03-16T18:23:52.225Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 37%
+2024-03-16T18:23:52.233Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 38%
+2024-03-16T18:23:52.237Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 39%
+2024-03-16T18:23:52.242Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 40%
+2024-03-16T18:23:52.249Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 41%
+2024-03-16T18:23:52.252Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 42%
+2024-03-16T18:23:52.259Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 43%
+2024-03-16T18:23:52.265Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 44%
+2024-03-16T18:23:52.268Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 45%
+2024-03-16T18:23:52.275Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 46%
+2024-03-16T18:23:52.280Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 47%
+2024-03-16T18:23:52.283Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 48%
+2024-03-16T18:23:52.290Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 49%
+2024-03-16T18:23:52.295Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 50%
+2024-03-16T18:23:52.301Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 51%
+2024-03-16T18:23:52.304Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 52%
+2024-03-16T18:23:52.314Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 53%
+2024-03-16T18:23:52.320Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 54%
+2024-03-16T18:23:52.328Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 55%
+2024-03-16T18:23:52.335Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 56%
+2024-03-16T18:23:52.343Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 57%
+2024-03-16T18:23:52.346Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 58%
+2024-03-16T18:23:52.354Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 59%
+2024-03-16T18:23:52.365Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 60%
+2024-03-16T18:23:52.370Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 61%
+2024-03-16T18:23:52.378Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 62%
+2024-03-16T18:23:52.384Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 63%
+2024-03-16T18:23:52.389Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 64%
+2024-03-16T18:23:52.394Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 65%
+2024-03-16T18:23:52.400Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 66%
+2024-03-16T18:23:52.406Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 67%
+2024-03-16T18:23:52.409Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 68%
+2024-03-16T18:23:52.415Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 69%
+2024-03-16T18:23:52.422Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 70%
+2024-03-16T18:23:52.425Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 71%
+2024-03-16T18:23:52.430Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 72%
+2024-03-16T18:23:52.436Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 73%
+2024-03-16T18:23:52.443Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 74%
+2024-03-16T18:23:52.446Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 75%
+2024-03-16T18:23:52.452Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 76%
+2024-03-16T18:23:52.456Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 77%
+2024-03-16T18:23:52.462Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 78%
+2024-03-16T18:23:52.468Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 79%
+2024-03-16T18:23:52.472Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 80%
+2024-03-16T18:23:52.478Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 81%
+2024-03-16T18:23:52.482Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 82%
+2024-03-16T18:23:52.487Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 83%
+2024-03-16T18:23:52.494Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 84%
+2024-03-16T18:23:52.500Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 85%
+2024-03-16T18:23:52.504Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 86%
+2024-03-16T18:23:52.510Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 87%
+2024-03-16T18:23:52.513Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 88%
+2024-03-16T18:23:52.519Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 89%
+2024-03-16T18:23:52.522Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 90%
+2024-03-16T18:23:52.530Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 91%
+2024-03-16T18:23:52.535Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 92%
+2024-03-16T18:23:52.539Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 93%
+2024-03-16T18:23:52.545Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 94%
+2024-03-16T18:23:52.548Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 95%
+2024-03-16T18:23:52.555Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 96%
+2024-03-16T18:23:52.561Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 97%
+2024-03-16T18:23:52.565Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 98%
+2024-03-16T18:23:52.571Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 99%
+2024-03-16T18:23:52.575Z [Modules] Streaming discord_spellcheck@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip: 100%
+2024-03-16T18:23:52.576Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-03-16T18:23:52.576Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip
+2024-03-16T18:23:52.737Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 2%
+2024-03-16T18:23:52.743Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 4%
+2024-03-16T18:23:52.743Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 5%
+2024-03-16T18:23:52.746Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 7%
+2024-03-16T18:23:52.751Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 9%
+2024-03-16T18:23:52.753Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 12%
+2024-03-16T18:23:52.757Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 14%
+2024-03-16T18:23:52.760Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 15%
+2024-03-16T18:23:52.763Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 17%
+2024-03-16T18:23:52.766Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 19%
+2024-03-16T18:23:52.769Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 21%
+2024-03-16T18:23:52.774Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 22%
+2024-03-16T18:23:52.776Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 24%
+2024-03-16T18:23:52.779Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 25%
+2024-03-16T18:23:52.782Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 26%
+2024-03-16T18:23:52.785Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 28%
+2024-03-16T18:23:52.790Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 29%
+2024-03-16T18:23:52.791Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 30%
+2024-03-16T18:23:52.795Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 32%
+2024-03-16T18:23:52.797Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 33%
+2024-03-16T18:23:52.800Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 35%
+2024-03-16T18:23:52.805Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 37%
+2024-03-16T18:23:52.807Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 38%
+2024-03-16T18:23:52.810Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 40%
+2024-03-16T18:23:52.813Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 42%
+2024-03-16T18:23:52.817Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 44%
+2024-03-16T18:23:52.820Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 46%
+2024-03-16T18:23:52.824Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 48%
+2024-03-16T18:23:52.827Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 51%
+2024-03-16T18:23:52.830Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 53%
+2024-03-16T18:23:52.833Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 55%
+2024-03-16T18:23:52.837Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 57%
+2024-03-16T18:23:52.840Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 59%
+2024-03-16T18:23:52.842Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 60%
+2024-03-16T18:23:52.845Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 62%
+2024-03-16T18:23:52.848Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 64%
+2024-03-16T18:23:52.851Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 65%
+2024-03-16T18:23:52.855Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 67%
+2024-03-16T18:23:52.855Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 68%
+2024-03-16T18:23:52.858Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 70%
+2024-03-16T18:23:52.861Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 72%
+2024-03-16T18:23:52.864Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 73%
+2024-03-16T18:23:52.866Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 75%
+2024-03-16T18:23:52.870Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 77%
+2024-03-16T18:23:52.873Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 79%
+2024-03-16T18:23:52.876Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 81%
+2024-03-16T18:23:52.879Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 83%
+2024-03-16T18:23:52.883Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 85%
+2024-03-16T18:23:52.887Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 87%
+2024-03-16T18:23:52.889Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 90%
+2024-03-16T18:23:52.892Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 92%
+2024-03-16T18:23:52.896Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 94%
+2024-03-16T18:23:52.900Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 96%
+2024-03-16T18:23:52.903Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 97%
+2024-03-16T18:23:52.906Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 99%
+2024-03-16T18:23:52.906Z [Modules] Streaming discord_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip: 100%
+2024-03-16T18:23:52.907Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-03-16T18:23:52.907Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip
+2024-03-16T18:23:53.112Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 1%
+2024-03-16T18:23:53.123Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 2%
+2024-03-16T18:23:53.139Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 3%
+2024-03-16T18:23:53.153Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 4%
+2024-03-16T18:23:53.166Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 5%
+2024-03-16T18:23:53.181Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 6%
+2024-03-16T18:23:53.201Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 7%
+2024-03-16T18:23:53.218Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 8%
+2024-03-16T18:23:53.238Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 9%
+2024-03-16T18:23:53.252Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 10%
+2024-03-16T18:23:53.269Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 11%
+2024-03-16T18:23:53.281Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 12%
+2024-03-16T18:23:53.293Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 13%
+2024-03-16T18:23:53.307Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 14%
+2024-03-16T18:23:53.323Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 15%
+2024-03-16T18:23:53.336Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 16%
+2024-03-16T18:23:53.351Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 17%
+2024-03-16T18:23:53.365Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 18%
+2024-03-16T18:23:53.375Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 19%
+2024-03-16T18:23:53.397Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 20%
+2024-03-16T18:23:53.406Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 21%
+2024-03-16T18:23:53.436Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 22%
+2024-03-16T18:23:53.449Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 23%
+2024-03-16T18:23:53.463Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 24%
+2024-03-16T18:23:53.489Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 25%
+2024-03-16T18:23:53.501Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 26%
+2024-03-16T18:23:53.522Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 27%
+2024-03-16T18:23:53.536Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 28%
+2024-03-16T18:23:53.548Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 29%
+2024-03-16T18:23:53.569Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 30%
+2024-03-16T18:23:53.583Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 31%
+2024-03-16T18:23:53.602Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 32%
+2024-03-16T18:23:53.615Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 33%
+2024-03-16T18:23:53.630Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 34%
+2024-03-16T18:23:53.643Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 35%
+2024-03-16T18:23:53.655Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 36%
+2024-03-16T18:23:53.670Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 37%
+2024-03-16T18:23:53.684Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 38%
+2024-03-16T18:23:53.696Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 39%
+2024-03-16T18:23:53.709Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 40%
+2024-03-16T18:23:53.721Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 41%
+2024-03-16T18:23:53.734Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 42%
+2024-03-16T18:23:53.750Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 43%
+2024-03-16T18:23:53.762Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 44%
+2024-03-16T18:23:53.774Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 45%
+2024-03-16T18:23:53.787Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 46%
+2024-03-16T18:23:53.800Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 47%
+2024-03-16T18:23:53.817Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 48%
+2024-03-16T18:23:53.834Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 49%
+2024-03-16T18:23:53.853Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 50%
+2024-03-16T18:23:53.865Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 51%
+2024-03-16T18:23:53.882Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 52%
+2024-03-16T18:23:53.900Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 53%
+2024-03-16T18:23:53.912Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 54%
+2024-03-16T18:23:53.925Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 55%
+2024-03-16T18:23:53.938Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 56%
+2024-03-16T18:23:53.951Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 57%
+2024-03-16T18:23:53.966Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 58%
+2024-03-16T18:23:53.981Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 59%
+2024-03-16T18:23:53.996Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 60%
+2024-03-16T18:23:54.012Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 61%
+2024-03-16T18:23:54.027Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 62%
+2024-03-16T18:23:54.039Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 63%
+2024-03-16T18:23:54.053Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 64%
+2024-03-16T18:23:54.065Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 65%
+2024-03-16T18:23:54.080Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 66%
+2024-03-16T18:23:54.099Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 67%
+2024-03-16T18:23:54.113Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 68%
+2024-03-16T18:23:54.127Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 69%
+2024-03-16T18:23:54.140Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 70%
+2024-03-16T18:23:54.152Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 71%
+2024-03-16T18:23:54.166Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 72%
+2024-03-16T18:23:54.178Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 73%
+2024-03-16T18:23:54.191Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 74%
+2024-03-16T18:23:54.204Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 75%
+2024-03-16T18:23:54.216Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 76%
+2024-03-16T18:23:54.229Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 77%
+2024-03-16T18:23:54.242Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 78%
+2024-03-16T18:23:54.254Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 79%
+2024-03-16T18:23:54.265Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 80%
+2024-03-16T18:23:54.278Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 81%
+2024-03-16T18:23:54.290Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 82%
+2024-03-16T18:23:54.303Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 83%
+2024-03-16T18:23:54.315Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 84%
+2024-03-16T18:23:54.328Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 85%
+2024-03-16T18:23:54.340Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 86%
+2024-03-16T18:23:54.354Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 87%
+2024-03-16T18:23:54.365Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 88%
+2024-03-16T18:23:54.378Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 89%
+2024-03-16T18:23:54.392Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 90%
+2024-03-16T18:23:54.408Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 91%
+2024-03-16T18:23:54.422Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 92%
+2024-03-16T18:23:54.439Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 93%
+2024-03-16T18:23:54.454Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 94%
+2024-03-16T18:23:54.473Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 95%
+2024-03-16T18:23:54.486Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 96%
+2024-03-16T18:23:54.501Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 97%
+2024-03-16T18:23:54.512Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 98%
+2024-03-16T18:23:54.529Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 99%
+2024-03-16T18:23:54.543Z [Modules] Streaming discord_voice@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip: 100%
+2024-03-16T18:23:54.543Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2024-03-16T18:23:54.544Z [Modules] Installing updates...
+2024-03-16T18:23:54.544Z [Modules] Installing discord_desktop_core@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_desktop_core-1.zip
+2024-03-16T18:23:54.616Z [Modules] Installing discord_erlpack@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_erlpack-1.zip
+2024-03-16T18:23:54.687Z [Modules] Installing discord_spellcheck@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_spellcheck-1.zip
+2024-03-16T18:23:55.333Z [Modules] Installing discord_utils@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_utils-1.zip
+2024-03-16T18:23:55.457Z [Modules] Installing discord_voice@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_voice-1.zip
+2024-03-16T18:23:56.166Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2024-03-16T18:23:56.166Z [Modules] Checking for host updates.
+2024-03-16T18:23:56.294Z [Modules] Host is up to date.
+2024-03-16T18:23:56.294Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:23:56.298Z [Modules] No module updates available.
+2024-03-16T18:23:57.694Z [Modules] Starting to install discord_krisp...
+2024-03-16T18:23:57.695Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-03-16T18:23:57.695Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip
+2024-03-16T18:23:57.701Z [Modules] Starting to install discord_game_utils...
+2024-03-16T18:23:57.868Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 1%
+2024-03-16T18:23:57.877Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 2%
+2024-03-16T18:23:57.890Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 3%
+2024-03-16T18:23:57.902Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 4%
+2024-03-16T18:23:57.918Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 5%
+2024-03-16T18:23:57.934Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 6%
+2024-03-16T18:23:57.952Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 7%
+2024-03-16T18:23:57.962Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 8%
+2024-03-16T18:23:57.974Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 9%
+2024-03-16T18:23:57.985Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 10%
+2024-03-16T18:23:57.997Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 11%
+2024-03-16T18:23:58.023Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 12%
+2024-03-16T18:23:58.024Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 13%
+2024-03-16T18:23:58.033Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 14%
+2024-03-16T18:23:58.047Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 15%
+2024-03-16T18:23:58.060Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 16%
+2024-03-16T18:23:58.069Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 17%
+2024-03-16T18:23:58.083Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 18%
+2024-03-16T18:23:58.101Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 19%
+2024-03-16T18:23:58.112Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 20%
+2024-03-16T18:23:58.175Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 21%
+2024-03-16T18:23:58.177Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 22%
+2024-03-16T18:23:58.177Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 23%
+2024-03-16T18:23:58.199Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 24%
+2024-03-16T18:23:58.217Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 25%
+2024-03-16T18:23:58.244Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 26%
+2024-03-16T18:23:58.252Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 27%
+2024-03-16T18:23:58.261Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 28%
+2024-03-16T18:23:58.274Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 29%
+2024-03-16T18:23:58.286Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 30%
+2024-03-16T18:23:58.295Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 31%
+2024-03-16T18:23:58.309Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 32%
+2024-03-16T18:23:58.318Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 33%
+2024-03-16T18:23:58.329Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 34%
+2024-03-16T18:23:58.343Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 35%
+2024-03-16T18:23:58.353Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 36%
+2024-03-16T18:23:58.366Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 37%
+2024-03-16T18:23:58.376Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 38%
+2024-03-16T18:23:58.389Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 39%
+2024-03-16T18:23:58.399Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 40%
+2024-03-16T18:23:58.408Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 41%
+2024-03-16T18:23:58.420Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 42%
+2024-03-16T18:23:58.434Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 43%
+2024-03-16T18:23:58.443Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 44%
+2024-03-16T18:23:58.456Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 45%
+2024-03-16T18:23:58.466Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 46%
+2024-03-16T18:23:58.480Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 47%
+2024-03-16T18:23:58.490Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 48%
+2024-03-16T18:23:58.507Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 49%
+2024-03-16T18:23:58.524Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 50%
+2024-03-16T18:23:58.538Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 51%
+2024-03-16T18:23:58.557Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 52%
+2024-03-16T18:23:58.567Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 53%
+2024-03-16T18:23:58.582Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 54%
+2024-03-16T18:23:58.595Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 55%
+2024-03-16T18:23:58.606Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 56%
+2024-03-16T18:23:58.619Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 57%
+2024-03-16T18:23:58.632Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 58%
+2024-03-16T18:23:58.642Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 59%
+2024-03-16T18:23:58.653Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 60%
+2024-03-16T18:23:58.665Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 61%
+2024-03-16T18:23:58.678Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 62%
+2024-03-16T18:23:58.687Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 63%
+2024-03-16T18:23:58.703Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 64%
+2024-03-16T18:23:58.714Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 65%
+2024-03-16T18:23:58.725Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 66%
+2024-03-16T18:23:58.740Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 67%
+2024-03-16T18:23:58.752Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 68%
+2024-03-16T18:23:58.765Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 69%
+2024-03-16T18:23:58.772Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 70%
+2024-03-16T18:23:58.787Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 71%
+2024-03-16T18:23:58.805Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 72%
+2024-03-16T18:23:58.818Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 73%
+2024-03-16T18:23:58.834Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 74%
+2024-03-16T18:23:58.848Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 75%
+2024-03-16T18:23:58.861Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 76%
+2024-03-16T18:23:58.870Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 77%
+2024-03-16T18:23:58.883Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 78%
+2024-03-16T18:23:58.892Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 79%
+2024-03-16T18:23:58.905Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 80%
+2024-03-16T18:23:58.916Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 81%
+2024-03-16T18:23:58.925Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 82%
+2024-03-16T18:23:58.938Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 83%
+2024-03-16T18:23:58.948Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 84%
+2024-03-16T18:23:58.960Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 85%
+2024-03-16T18:23:58.969Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 86%
+2024-03-16T18:23:58.982Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 87%
+2024-03-16T18:23:58.991Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 88%
+2024-03-16T18:23:59.004Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 89%
+2024-03-16T18:23:59.013Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 90%
+2024-03-16T18:23:59.022Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 91%
+2024-03-16T18:23:59.035Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 92%
+2024-03-16T18:23:59.045Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 93%
+2024-03-16T18:23:59.058Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 94%
+2024-03-16T18:23:59.067Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 95%
+2024-03-16T18:23:59.077Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 96%
+2024-03-16T18:23:59.090Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 97%
+2024-03-16T18:23:59.099Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 98%
+2024-03-16T18:23:59.112Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 99%
+2024-03-16T18:23:59.121Z [Modules] Streaming discord_krisp@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip: 100%
+2024-03-16T18:23:59.122Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-03-16T18:23:59.122Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip
+2024-03-16T18:23:59.122Z [Modules] Installing discord_krisp@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_krisp-1.zip
+2024-03-16T18:23:59.298Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 2%
+2024-03-16T18:23:59.303Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 3%
+2024-03-16T18:23:59.304Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 5%
+2024-03-16T18:23:59.304Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 7%
+2024-03-16T18:23:59.307Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 10%
+2024-03-16T18:23:59.310Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 12%
+2024-03-16T18:23:59.314Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 15%
+2024-03-16T18:23:59.317Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 18%
+2024-03-16T18:23:59.320Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 20%
+2024-03-16T18:23:59.324Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 23%
+2024-03-16T18:23:59.327Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 25%
+2024-03-16T18:23:59.331Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 28%
+2024-03-16T18:23:59.336Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 30%
+2024-03-16T18:23:59.339Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 32%
+2024-03-16T18:23:59.341Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 35%
+2024-03-16T18:23:59.346Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 37%
+2024-03-16T18:23:59.348Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 38%
+2024-03-16T18:23:59.350Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 41%
+2024-03-16T18:23:59.354Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 43%
+2024-03-16T18:23:59.356Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 44%
+2024-03-16T18:23:59.359Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 47%
+2024-03-16T18:23:59.363Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 49%
+2024-03-16T18:23:59.367Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 51%
+2024-03-16T18:23:59.369Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 53%
+2024-03-16T18:23:59.372Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 54%
+2024-03-16T18:23:59.375Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 56%
+2024-03-16T18:23:59.377Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 57%
+2024-03-16T18:23:59.380Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 60%
+2024-03-16T18:23:59.383Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 62%
+2024-03-16T18:23:59.387Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 65%
+2024-03-16T18:23:59.389Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 67%
+2024-03-16T18:23:59.393Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 70%
+2024-03-16T18:23:59.395Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 71%
+2024-03-16T18:23:59.398Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 74%
+2024-03-16T18:23:59.401Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 75%
+2024-03-16T18:23:59.403Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 78%
+2024-03-16T18:23:59.405Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 79%
+2024-03-16T18:23:59.408Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 82%
+2024-03-16T18:23:59.409Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 83%
+2024-03-16T18:23:59.413Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 86%
+2024-03-16T18:23:59.416Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 88%
+2024-03-16T18:23:59.419Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 91%
+2024-03-16T18:23:59.422Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 92%
+2024-03-16T18:23:59.424Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 95%
+2024-03-16T18:23:59.428Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 97%
+2024-03-16T18:23:59.431Z [Modules] Streaming discord_game_utils@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip: 100%
+2024-03-16T18:23:59.432Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2024-03-16T18:23:59.494Z [Modules] Installing discord_game_utils@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_game_utils-1.zip
+2024-03-16T18:23:59.549Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2024-03-16T18:24:01.112Z [Modules] Checking for host updates.
+2024-03-16T18:24:01.193Z [Modules] Starting to install discord_rpc...
+2024-03-16T18:24:01.193Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-03-16T18:24:01.193Z [Modules] Streaming discord_rpc@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_rpc-1.zip
+2024-03-16T18:24:01.252Z [Modules] Host is up to date.
+2024-03-16T18:24:01.252Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:24:01.254Z [Modules] No module updates available.
+2024-03-16T18:24:01.364Z [Modules] Streaming discord_rpc@1 to /home/stern/.config/discord/0.0.45/modules/pending/discord_rpc-1.zip: 100%
+2024-03-16T18:24:01.365Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-03-16T18:24:01.365Z [Modules] Installing discord_rpc@1 from /home/stern/.config/discord/0.0.45/modules/pending/discord_rpc-1.zip
+2024-03-16T18:24:01.377Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-03-16T18:29:49.667Z [Modules] Modules initializing
+2024-03-16T18:29:49.667Z [Modules] Distribution: remote
+2024-03-16T18:29:49.667Z [Modules] Host updates: enabled
+2024-03-16T18:29:49.667Z [Modules] Module updates: enabled
+2024-03-16T18:29:49.667Z [Modules] Module install path: /home/stern/.config/discord/0.0.45/modules
+2024-03-16T18:29:49.667Z [Modules] Module installed file path: /home/stern/.config/discord/0.0.45/modules/installed.json
+2024-03-16T18:29:49.667Z [Modules] Module download path: /home/stern/.config/discord/0.0.45/modules/pending
+2024-03-16T18:29:49.877Z [Modules] No updates to install
+2024-03-16T18:29:49.877Z [Modules] Checking for host updates.
+2024-03-16T18:29:50.076Z [Modules] Host is up to date.
+2024-03-16T18:29:50.076Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:29:50.112Z [Modules] No module updates available.
+2024-03-16T18:30:01.348Z [Modules] Checking for host updates.
+2024-03-16T18:30:01.528Z [Modules] Host is up to date.
+2024-03-16T18:30:01.528Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:30:01.739Z [Modules] No module updates available.
+2024-03-16T18:38:47.914Z [Modules] Modules initializing
+2024-03-16T18:38:47.914Z [Modules] Distribution: remote
+2024-03-16T18:38:47.914Z [Modules] Host updates: enabled
+2024-03-16T18:38:47.914Z [Modules] Module updates: enabled
+2024-03-16T18:38:47.914Z [Modules] Module install path: /home/stern/.config/discord/0.0.45/modules
+2024-03-16T18:38:47.914Z [Modules] Module installed file path: /home/stern/.config/discord/0.0.45/modules/installed.json
+2024-03-16T18:38:47.914Z [Modules] Module download path: /home/stern/.config/discord/0.0.45/modules/pending
+2024-03-16T18:38:48.086Z [Modules] No updates to install
+2024-03-16T18:38:48.087Z [Modules] Checking for host updates.
+2024-03-16T18:38:48.302Z [Modules] Host is up to date.
+2024-03-16T18:38:48.302Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:38:48.339Z [Modules] No module updates available.
+2024-03-16T18:38:54.617Z [Modules] Checking for host updates.
+2024-03-16T18:38:54.923Z [Modules] Host is up to date.
+2024-03-16T18:38:54.923Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:38:54.926Z [Modules] No module updates available.
+2024-03-16T18:41:04.100Z [Modules] Modules initializing
+2024-03-16T18:41:04.100Z [Modules] Distribution: remote
+2024-03-16T18:41:04.100Z [Modules] Host updates: enabled
+2024-03-16T18:41:04.100Z [Modules] Module updates: enabled
+2024-03-16T18:41:04.101Z [Modules] Module install path: /home/stern/.config/discord/0.0.45/modules
+2024-03-16T18:41:04.101Z [Modules] Module installed file path: /home/stern/.config/discord/0.0.45/modules/installed.json
+2024-03-16T18:41:04.101Z [Modules] Module download path: /home/stern/.config/discord/0.0.45/modules/pending
+2024-03-16T18:41:04.287Z [Modules] No updates to install
+2024-03-16T18:41:04.287Z [Modules] Checking for host updates.
+2024-03-16T18:41:04.499Z [Modules] Host is up to date.
+2024-03-16T18:41:04.499Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:41:04.525Z [Modules] No module updates available.
+2024-03-16T18:41:12.684Z [Modules] Checking for host updates.
+2024-03-16T18:41:12.866Z [Modules] Host is up to date.
+2024-03-16T18:41:12.866Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T18:41:12.870Z [Modules] No module updates available.
+2024-03-16T19:30:01.348Z [Modules] Checking for host updates.
+2024-03-16T19:30:01.533Z [Modules] Host is up to date.
+2024-03-16T19:30:01.533Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T19:30:01.579Z [Modules] No module updates available.
+2024-03-16T20:30:01.349Z [Modules] Checking for host updates.
+2024-03-16T20:30:01.517Z [Modules] Host is up to date.
+2024-03-16T20:30:01.517Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T20:30:01.673Z [Modules] No module updates available.
+2024-03-16T21:30:01.349Z [Modules] Checking for host updates.
+2024-03-16T21:30:01.530Z [Modules] Host is up to date.
+2024-03-16T21:30:01.530Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T21:30:01.744Z [Modules] No module updates available.
+2024-03-16T22:30:01.350Z [Modules] Checking for host updates.
+2024-03-16T22:30:01.518Z [Modules] Host is up to date.
+2024-03-16T22:30:01.518Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T22:30:01.659Z [Modules] No module updates available.
+2024-03-16T23:30:01.349Z [Modules] Checking for host updates.
+2024-03-16T23:30:01.511Z [Modules] Host is up to date.
+2024-03-16T23:30:01.511Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-16T23:30:01.663Z [Modules] No module updates available.
+2024-03-17T00:30:01.349Z [Modules] Checking for host updates.
+2024-03-17T00:30:01.520Z [Modules] Host is up to date.
+2024-03-17T00:30:01.521Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T00:30:01.680Z [Modules] No module updates available.
+2024-03-17T00:34:15.505Z [Modules] Modules initializing
+2024-03-17T00:34:15.505Z [Modules] Distribution: remote
+2024-03-17T00:34:15.505Z [Modules] Host updates: enabled
+2024-03-17T00:34:15.506Z [Modules] Module updates: enabled
+2024-03-17T00:34:15.506Z [Modules] Module install path: /home/stern/.config/discord/0.0.45/modules
+2024-03-17T00:34:15.506Z [Modules] Module installed file path: /home/stern/.config/discord/0.0.45/modules/installed.json
+2024-03-17T00:34:15.506Z [Modules] Module download path: /home/stern/.config/discord/0.0.45/modules/pending
+2024-03-17T00:34:15.688Z [Modules] No updates to install
+2024-03-17T00:34:15.689Z [Modules] Checking for host updates.
+2024-03-17T00:34:15.900Z [Modules] Host is up to date.
+2024-03-17T00:34:15.900Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T00:34:15.904Z [Modules] No module updates available.
+2024-03-17T00:34:28.060Z [Modules] Checking for host updates.
+2024-03-17T00:34:28.197Z [Modules] Host is up to date.
+2024-03-17T00:34:28.197Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T00:34:28.202Z [Modules] No module updates available.
+2024-03-17T11:14:44.274Z [Modules] Modules initializing
+2024-03-17T11:14:44.275Z [Modules] Distribution: remote
+2024-03-17T11:14:44.275Z [Modules] Host updates: enabled
+2024-03-17T11:14:44.275Z [Modules] Module updates: enabled
+2024-03-17T11:14:44.275Z [Modules] Module install path: /home/stern/.config/discord/0.0.45/modules
+2024-03-17T11:14:44.275Z [Modules] Module installed file path: /home/stern/.config/discord/0.0.45/modules/installed.json
+2024-03-17T11:14:44.275Z [Modules] Module download path: /home/stern/.config/discord/0.0.45/modules/pending
+2024-03-17T11:14:44.487Z [Modules] No updates to install
+2024-03-17T11:14:44.487Z [Modules] Checking for host updates.
+2024-03-17T11:14:44.696Z [Modules] Host is up to date.
+2024-03-17T11:14:44.696Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T11:14:44.721Z [Modules] No module updates available.
+2024-03-17T11:14:55.954Z [Modules] Checking for host updates.
+2024-03-17T11:14:56.088Z [Modules] Host is up to date.
+2024-03-17T11:14:56.089Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T11:14:56.092Z [Modules] No module updates available.
+2024-03-17T12:14:55.955Z [Modules] Checking for host updates.
+2024-03-17T12:14:56.116Z [Modules] Host is up to date.
+2024-03-17T12:14:56.116Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T12:14:56.144Z [Modules] No module updates available.
+2024-03-17T13:14:55.955Z [Modules] Checking for host updates.
+2024-03-17T13:14:56.114Z [Modules] Host is up to date.
+2024-03-17T13:14:56.114Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-03-17T13:14:56.142Z [Modules] No module updates available.

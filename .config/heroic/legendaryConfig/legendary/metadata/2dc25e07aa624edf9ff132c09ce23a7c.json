@@ -1,0 +1,194 @@
+{
+  "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+  "app_title": "GigaBash",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "asset_id": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "build_version": "183",
+      "catalog_item_id": "b61305fc1b184d289c6707ef7ee0f72b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "16fc138ed83846bc90d923fe0d87ad72"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-01T17:53:10.738Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/TitanXX/Saved/SaveGames"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Gigabash"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "16fc138ed83846bc90d923fe0d87ad72"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "GigaBash",
+    "developer": "Passion Republic Games",
+    "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-18T18:10:30.646Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lisbon Tokyo",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "067620b978db40dfb9f8fda077b82040",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "067620b978db40dfb9f8fda077b82040",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-06T14:56:58.147Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lisbon Tokyo",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-28T20:15:01.112Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lisbon DLC2",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "36c7f7d4220547229e7b32b9f17ea426",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "36c7f7d4220547229e7b32b9f17ea426",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-10T20:44:40.145Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lisbon DLC2",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b61305fc1b184d289c6707ef7ee0f72b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b61305fc1b184d289c6707ef7ee0f72b",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f0d657610403750a33b2ed4a372d21ec",
+        "size": 959193,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-08-04T14:54:49.892Z",
+        "url": "https://cdn1.epicgames.com/item/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S1_2560x1440-f0d657610403750a33b2ed4a372d21ec",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "76be44277917f4d28d1bad123938d27d",
+        "size": 811547,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-08-04T14:54:59.707Z",
+        "url": "https://cdn1.epicgames.com/item/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-28T20:15:01.122Z",
+    "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+    "releaseInfo": [
+      {
+        "appId": "2dc25e07aa624edf9ff132c09ce23a7c",
+        "dateAdded": "2020-10-01T18:00:00.687Z",
+        "id": "d23e544290b24940af1c076df545ce09",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "GigaBash",
+    "unsearchable": true
+  }
+}

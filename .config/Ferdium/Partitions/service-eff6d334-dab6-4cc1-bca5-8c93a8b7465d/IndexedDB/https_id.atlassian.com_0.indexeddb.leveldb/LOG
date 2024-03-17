@@ -1,0 +1,2 @@
+2024/03/17-12:20:32.952 b75 Creating DB /home/stern/.config/Ferdium/Partitions/service-eff6d334-dab6-4cc1-bca5-8c93a8b7465d/IndexedDB/https_id.atlassian.com_0.indexeddb.leveldb since it was missing.
+2024/03/17-12:20:32.956 b75 Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-eff6d334-dab6-4cc1-bca5-8c93a8b7465d/IndexedDB/https_id.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001

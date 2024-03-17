@@ -1,0 +1,12 @@
+[16/03/2024, 19:34:31] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+[16/03/2024, 19:34:31] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json --version
+null
+1.0.0
+[16/03/2024, 19:35:38] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth --code <redacted>
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710617738.4052002}
+[16/03/2024, 19:35:38] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710617738.4052002}
+[16/03/2024, 19:35:38] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710617738.4052002}
+[16/03/2024, 19:35:39] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710617738.4052002}

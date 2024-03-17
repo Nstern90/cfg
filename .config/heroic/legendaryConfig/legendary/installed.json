@@ -1,0 +1,27 @@
+{
+  "64b0c77d07f644e6a2326a1fd7ab9926": {
+    "app_name": "64b0c77d07f644e6a2326a1fd7ab9926",
+    "base_urls": [
+      "https://fastly-download.epicgames.com/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/f58c2f2e33444a509a6245783b934f31/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/f58c2f2e33444a509a6245783b934f31/default",
+      "https://download.epicgames.com/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/f58c2f2e33444a509a6245783b934f31/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Live.exe",
+    "install_path": "/run/media/stern/SSD/Games/LeagueofLegends",
+    "install_size": 70308072,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "--launch-product=league_of_legends --launch-patchline=live --thirdparty",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "League of Legends",
+    "uninstaller": null,
+    "version": "1168-327"
+  }
+}

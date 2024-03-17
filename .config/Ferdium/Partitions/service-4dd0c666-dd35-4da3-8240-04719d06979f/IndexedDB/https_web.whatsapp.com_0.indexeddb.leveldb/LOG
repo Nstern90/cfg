@@ -1,0 +1,20 @@
+2024/03/17-11:14:51.141 b8a Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-4dd0c666-dd35-4da3-8240-04719d06979f/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/17-11:14:51.142 b8a Recovering log #105
+2024/03/17-11:14:51.185 b8a Reusing old log /home/stern/.config/Ferdium/Partitions/service-4dd0c666-dd35-4da3-8240-04719d06979f/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000105.log 
+2024/03/17-12:59:57.941 b8a Level-0 table #114: started
+2024/03/17-12:59:57.985 b8a Level-0 table #114: 1366965 bytes OK
+2024/03/17-12:59:57.990 b8a Delete type=0 #105
+2024/03/17-13:00:04.125 b77 Compacting 1@1 + 5@2 files
+2024/03/17-13:00:04.195 b77 Generated table #115@1: 24359 keys, 2205221 bytes
+2024/03/17-13:00:04.227 b77 Generated table #116@1: 13460 keys, 2173410 bytes
+2024/03/17-13:00:04.272 b77 Generated table #117@1: 30529 keys, 2179330 bytes
+2024/03/17-13:00:04.332 b77 Generated table #118@1: 107820 keys, 2258242 bytes
+2024/03/17-13:00:04.348 b77 Generated table #119@1: 24392 keys, 527862 bytes
+2024/03/17-13:00:04.348 b77 Compacted 1@1 + 5@2 files => 9344065 bytes
+2024/03/17-13:00:04.351 b77 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/03/17-13:00:04.351 b77 Delete type=2 #107
+2024/03/17-13:00:04.351 b77 Delete type=2 #108
+2024/03/17-13:00:04.351 b77 Delete type=2 #109
+2024/03/17-13:00:04.351 b77 Delete type=2 #110
+2024/03/17-13:00:04.351 b77 Delete type=2 #111
+2024/03/17-13:00:04.351 b77 Delete type=2 #114

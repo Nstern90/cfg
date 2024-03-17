@@ -1,0 +1,61 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "GB",
+		"currencies": [
+			{
+				"code": "GBP",
+				"symbol": "£"
+			},
+			{
+				"code": "USD",
+				"symbol": "$"
+			},
+			{
+				"code": "EUR",
+				"symbol": "€"
+			}
+		],
+		"selectedCurrency": {
+			"code": "GBP",
+			"symbol": "£"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "PEGI",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "88a236e14dd7c8597d74f7ebb12f04e6",
+			"wishlist": null,
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 8,
+			"forum": 0,
+			"total": 8
+		},
+		"userId": "50185607071068",
+		"username": "nstern",
+		"galaxyUserId": "50185607045424334",
+		"avatar": "https://images.gog.com/e380dd5e8249f4ce94a3f215ccf0d99c50bf82e19aacc8e4bc3bd02da7c7e8c6",
+		"walletBalance": {
+			"currency": "GBP",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 26,
+			"movies": 0
+		},
+		"wishlistedItems": 0,
+		"friends": [],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

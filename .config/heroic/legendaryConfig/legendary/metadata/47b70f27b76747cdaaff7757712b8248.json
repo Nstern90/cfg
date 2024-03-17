@@ -1,0 +1,111 @@
+{
+  "app_name": "47b70f27b76747cdaaff7757712b8248",
+  "app_title": "Teamfight Tactics",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "47b70f27b76747cdaaff7757712b8248",
+      "asset_id": "47b70f27b76747cdaaff7757712b8248",
+      "build_version": "1168-327",
+      "catalog_item_id": "fe7f80065f7d4c7e8aa0da980b380ff5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ada73cc2d68a46a18f529ebb87328dee"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-20T01:32:40.161Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TeamfightTactics"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ada73cc2d68a46a18f529ebb87328dee"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Teamfight Tactics",
+    "developer": "Riot Games, Inc.",
+    "developerId": "o-f78uswldmqghexmu23y5qj6a5xnqrg",
+    "endOfSupport": false,
+    "entitlementName": "fe7f80065f7d4c7e8aa0da980b380ff5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fe7f80065f7d4c7e8aa0da980b380ff5",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d9d06e021fbb5d29abb8c93d0c8a42b6",
+        "size": 577674,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-14T23:04:09.788Z",
+        "url": "https://cdn1.epicgames.com/item/ada73cc2d68a46a18f529ebb87328dee/EGS_TeamfightTactics_RiotGames_S1_2560x1440-d9d06e021fbb5d29abb8c93d0c8a42b6",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "fdc4c8408e08c010de1ee68f5c4c1f98",
+        "size": 561595,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-14T23:04:26.872Z",
+        "url": "https://cdn1.epicgames.com/item/ada73cc2d68a46a18f529ebb87328dee/EGS_TeamfightTactics_RiotGames_S2_1200x1600-fdc4c8408e08c010de1ee68f5c4c1f98",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-11-21T17:00:03.546Z",
+    "longDescription": "Teamfight Tactics",
+    "namespace": "ada73cc2d68a46a18f529ebb87328dee",
+    "releaseInfo": [
+      {
+        "appId": "47b70f27b76747cdaaff7757712b8248",
+        "compatibleApps": [],
+        "dateAdded": "2021-09-21T16:38:18.893Z",
+        "id": "e72b9beb76b4409d916ce9e5b52d976d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Teamfight Tactics",
+    "unsearchable": true
+  }
+}

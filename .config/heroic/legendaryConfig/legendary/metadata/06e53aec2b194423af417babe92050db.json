@@ -1,0 +1,113 @@
+{
+  "app_name": "06e53aec2b194423af417babe92050db",
+  "app_title": "Football Manager 2022 Editor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "06e53aec2b194423af417babe92050db",
+      "asset_id": "06e53aec2b194423af417babe92050db",
+      "build_version": "1187-win-epic-editor",
+      "catalog_item_id": "657ece01bdf44240b880fcd367bc7d38",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "97071dce4a98441d9c0b7f0df92f7b31"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-27T18:50:44.315Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FM22Editor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "97071dce4a98441d9c0b7f0df92f7b31"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Football Manager 2022 Editor",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "endOfSupport": false,
+    "entitlementName": "657ece01bdf44240b880fcd367bc7d38",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "657ece01bdf44240b880fcd367bc7d38",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "75cdba619b9407156aff80d966b181f0",
+        "size": 868153,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-19T05:22:31.548Z",
+        "url": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/FM22 EDITOR - LANDSCAPE_2560x1440-75cdba619b9407156aff80d966b181f0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "58f4ff09be8821fff208a3efec5aabda",
+        "size": 526579,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-19T05:22:40.970Z",
+        "url": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/FM22 EDITOR - PORTRAIT_1200x1600-58f4ff09be8821fff208a3efec5aabda",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-11-19T05:22:45.098Z",
+    "namespace": "97071dce4a98441d9c0b7f0df92f7b31",
+    "releaseInfo": [
+      {
+        "appId": "06e53aec2b194423af417babe92050db",
+        "compatibleApps": [],
+        "dateAdded": "2021-08-27T18:49:26.837Z",
+        "id": "ed9b3b953618479eada08850fc7fb529",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Football Manager 2022 Editor",
+    "unsearchable": true
+  }
+}

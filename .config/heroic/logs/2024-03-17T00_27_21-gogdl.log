@@ -1,0 +1,30 @@
+[17/03/2024, 00:27:21] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json --version
+[17/03/2024, 00:27:21] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+[17/03/2024, 00:27:21] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+[17/03/2024, 00:27:21] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+1.0.0
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710635242.0771222}
+[17/03/2024, 00:27:22] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json info gog-redist --os windows
+[17/03/2024, 00:27:22] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710635242.0771222}
+[GENERIC DOWNLOAD_MANAGER] ERROR: Game doesn't support content system api, unable to proceed using platform windows
+[17/03/2024, 00:27:22] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+[17/03/2024, 00:27:22] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json redist --ids ISI --path /home/stern/.config/heroic/tools/redist/gog
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710635242.0771222}
+[API] INFO: Getting Dependencies repository
+(1.1137475967407227, 'MB') 1167849
+(1.1953582763671875, 'MB') 1253424
+[PROGRESS] INFO: = Progress: 0.00 0/1253424, Running for: 00:00:00, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 0.00 MiB, Written: 0.00 MiB
+[PROGRESS] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[17/03/2024, 00:27:23] GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1710635242.0771222}
+[PROGRESS] INFO: = Progress: 100.00 1253424/1253424, Running for: 00:00:01, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 1.11 MiB, Written: 1.20 MiB
+[PROGRESS] INFO:  + Download	- 1.11 MiB/s (raw) / 1.20 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 1.20 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 100.00 1253424/1253424, Running for: 00:00:01, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 1.11 MiB, Written: 1.20 MiB
+[PROGRESS] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)

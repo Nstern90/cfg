@@ -1,0 +1,4 @@
+2024-03-16 23:39:02.458 [info] Started local extension host with pid 606730.
+2024-03-16 23:39:02.491 [info] Started initializing default profile extensions in extensions installation folder. file:///home/stern/.vscode-oss/extensions
+2024-03-16 23:39:02.667 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/stern/.vscode-oss/extensions
+2024-03-16 23:39:05.483 [info] [perf] Render performance baseline is 25ms

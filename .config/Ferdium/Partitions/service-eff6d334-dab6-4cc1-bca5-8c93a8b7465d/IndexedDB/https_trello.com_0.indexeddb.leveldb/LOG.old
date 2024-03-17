@@ -1,0 +1,7 @@
+2024/03/17-11:14:52.381 b75 Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-eff6d334-dab6-4cc1-bca5-8c93a8b7465d/IndexedDB/https_trello.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/17-11:14:52.381 b75 Recovering log #3
+2024/03/17-11:14:52.382 b75 Reusing old log /home/stern/.config/Ferdium/Partitions/service-eff6d334-dab6-4cc1-bca5-8c93a8b7465d/IndexedDB/https_trello.com_0.indexeddb.leveldb/000003.log 
+2024/03/17-12:20:34.706 b77 Level-0 table #5: started
+2024/03/17-12:20:34.709 b77 Level-0 table #5: 30840 bytes OK
+2024/03/17-12:20:34.713 b77 Delete type=0 #3
+2024/03/17-12:20:34.713 b77 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

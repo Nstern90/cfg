@@ -1,0 +1,2 @@
+2024/03/16-19:25:35.915 43868 Creating DB /home/stern/.config/Ferdium/Partitions/service-646e516f-0850-460b-94a5-57c2ee0dd738/Local Storage/leveldb since it was missing.
+2024/03/16-19:25:35.974 43868 Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-646e516f-0850-460b-94a5-57c2ee0dd738/Local Storage/leveldb/MANIFEST-000001

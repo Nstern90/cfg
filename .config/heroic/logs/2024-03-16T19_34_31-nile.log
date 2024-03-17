@@ -1,0 +1,26 @@
+[16/03/2024, 19:34:31] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+1.0.1 Jonathan Joestar
+[16/03/2024, 19:34:40] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile auth --login --non-interactive
+{"client_id":"<redacted>","code_verifier":"<redacted>","serial":"<redacted>","url":"<redacted>"}
+[16/03/2024, 19:35:10] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile register --code <redacted> --code-verifier uDd0tmNDOweFoYo8EdwofJXkKoGWJDQK-0yOzZEMV1M --serial 3BC7F8EAE3CC11EE9577D8BBC107F608 --client-id 3342433746384541453343433131454539353737443842424331303746363038234132554d56484f58375550345637
+INFO [AUTH_MANAGER]:	 Registerring a device. ID: 3342433746384541453343433131454539353737443842424331303746363038234132554d56484f58375550345637
+INFO [AUTH_MANAGER]:	 Succesfully registered a device
+INFO [AUTH_MANAGER]:	 Written data to the config
+INFO [LIBRARY]:	 Synchronizing library
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Successfully synced the library
+[16/03/2024, 19:35:16] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+[16/03/2024, 19:35:16] NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+INFO [LIBRARY]:	 Synchronizing library
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Successfully synced the library

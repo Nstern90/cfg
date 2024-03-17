@@ -1,0 +1,2 @@
+2024/03/17-12:23:36.555 b75 Creating DB /home/stern/.config/Ferdium/Partitions/service-e53f7861-be74-4d61-bab3-d2a45cdee4db/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb since it was missing.
+2024/03/17-12:23:36.560 b75 Reusing MANIFEST /home/stern/.config/Ferdium/Partitions/service-e53f7861-be74-4d61-bab3-d2a45cdee4db/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001

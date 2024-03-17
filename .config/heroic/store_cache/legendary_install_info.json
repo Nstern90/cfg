@@ -1,0 +1,45 @@
+{
+	"64b0c77d07f644e6a2326a1fd7ab9926": {
+		"game": {
+			"app_name": "64b0c77d07f644e6a2326a1fd7ab9926",
+			"title": "League of Legends",
+			"version": "1168-327",
+			"platform_versions": {
+				"Windows": "1168-327"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4028,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "814404ff6301455aa7638d490392c013",
+			"launch_exe": "Live.exe",
+			"launch_command": "--launch-product=league_of_legends --launch-patchline=live --thirdparty",
+			"build_version": "1168-327",
+			"build_id": "BaZF5IcURmS-3sm15-oyDg",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1,
+			"num_chunks": 68,
+			"disk_size": 70308072,
+			"download_size": 65774050,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"64b0c77d07f644e6a2326a1fd7ab9926": "Sun Mar 17 2024 00:27:37 GMT+0000 (Greenwich Mean Time)"
+	}
+}

@@ -1,0 +1,36 @@
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Preparing download for "League of Legends" (64b0c77d07f644e6a2326a1fd7ab9926)...
+[Core] INFO: Parsing game manifest...
+[Core] INFO: Install path: /run/media/stern/SSD/Games/LeagueofLegends
+[Core] INFO: Selected CDN: fastly-download.epicgames.com (https)
+[DLM] INFO: Found 0 missing files.
+[cli] INFO: Install size: 67.05 MiB
+[cli] INFO: Download size: 62.73 MiB (Compression savings: 7.8%)
+[cli] INFO: Reusable size: 0.00 MiB (chunks) / 0.00 MiB (unchanged / skipped)
+[cli] INFO: Downloads are resumable, you can interrupt the download with CTRL-C and resume it using the same command later on.
+[DLManager] INFO: Download Manager running with process-id: 675034
+[DLManager] INFO: Starting download workers...
+[DLManager] INFO: Starting file writing worker...
+[DLManager] INFO: = Progress: 0.00% (0/76), Running for 00:00:00, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 0.00 MiB, Written: 0.00 MiB
+[DLManager] INFO:  - Cache usage: 3.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 28.95% (22/76), Running for 00:00:01, ETA: 00:00:02
+[DLManager] INFO:  - Downloaded: 17.18 MiB, Written: 19.26 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 17.16 MiB/s (raw) / 21.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 19.23 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 63.16% (48/76), Running for 00:00:02, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 42.18 MiB, Written: 43.19 MiB
+[DLManager] INFO:  - Cache usage: 25.00 MiB, active tasks: 21
+[DLManager] INFO:  + Download	- 24.97 MiB/s (raw) / 24.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 23.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 100.00% (76/76), Running for 00:00:03, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 62.73 MiB, Written: 67.05 MiB
+[DLManager] INFO:  - Cache usage: 0.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 20.52 MiB/s (raw) / 20.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 23.83 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: Waiting for installation to finish...
+[DLManager] INFO: All done! Download manager quitting...
+[cli] INFO: Finished installation process in 4.08 seconds.

@@ -1,0 +1,73 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/stern/.config/heroic/logs/2024-03-17T00_27_21-heroic.log",
+		"lastLogFile": "/home/stern/.config/heroic/logs/2024-03-16T19_34_31-heroic.log",
+		"legendaryLogFile": "/home/stern/.config/heroic/logs/2024-03-17T00_27_21-legendary.log",
+		"gogdlLogFile": "/home/stern/.config/heroic/logs/2024-03-17T00_27_21-gogdl.log",
+		"nileLogFile": "/home/stern/.config/heroic/logs/2024-03-17T00_27_21-nile.log"
+	},
+	"userHome": "/home/stern",
+	"language": "en",
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": false,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/stern/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/stern/.steam/steam",
+		"defaultWinePrefix": "/home/stern/Games/Heroic/Prefixes/default",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/stern/Games/Heroic/Prefixes/default",
+		"wineVersion": {
+			"bin": "/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wine",
+			"name": "Wine - Wine-GE-Proton8-26",
+			"type": "wine",
+			"lib": "/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib64",
+			"lib32": "/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib",
+			"wineserver": "/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wineserver"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false
+	},
+	"userInfo": {
+		"account_id": "1cf604dd4f3c44849c62b1bb4190b36c",
+		"displayName": "Hydroscopic",
+		"user": "stern"
+	},
+	"window-props": {
+		"x": 1930,
+		"y": 43,
+		"width": 1900,
+		"height": 1027,
+		"maximized": false
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "64b0c77d07f644e6a2326a1fd7ab9926",
+				"title": "League of Legends"
+			}
+		]
+	}
+}

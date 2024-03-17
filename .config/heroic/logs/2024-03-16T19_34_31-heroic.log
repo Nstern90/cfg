@@ -1,0 +1,135 @@
+(19:34:31) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(19:34:31) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(19:34:31) INFO:    [Connection]:       Connectivity: check-online
+(19:34:31) INFO:    [Connection]:       Pinging external endpoints
+(19:34:31) INFO:    [Gog]:              Checking for existing gog manifests
+(19:34:31) INFO:    [Connection]:       Connectivity: online
+(19:34:31) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(19:34:31) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(19:34:31) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json --version
+(19:34:31) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(19:34:31) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 3600 6-Core Processor
+Memory: 33.57 GB (used: 9.05 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Radeon RX 6700 XT GAMING OC 12G [Sapphire PULSE]
+    IDs: D=73df V=1002 SD=445e SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.6.21-1-lts (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.13.0 Dorry & Broggy
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.0
+  Nile: 1.0.1 Jonathan Joestar
+
+(19:34:32) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "updated",
+    "version": "4.10.2710.0"
+  }
+}
+(19:34:32) INFO:    [Backend]:          User Not Found, removing it from Store
+(19:34:32) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(19:34:32) WARNING: [Backend]:          Protocol already registered.
+(19:34:32) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(19:34:32) INFO:    [Backend]:          Frontend Ready
+(19:34:33) INFO:    [Backend]:          Checking for new Heroic Updates
+(19:34:33) INFO:    [Backend]:          Checking for current version changelog
+(19:34:33) INFO:    [Frontend]:         Updated to a new version, cleaaning up the cache.
+(19:34:33) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+(19:34:33) INFO:    [Frontend]:         Refreshing undefined Library
+(19:34:33) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(19:34:33) INFO:    [Legendary]:        Refreshing library...
+(19:34:35) INFO:    [Winetricks]:       Downloading Winetricks
+(19:34:35) INFO:    [WineDownloader]:   Updating wine versions info
+(19:34:35) INFO:    [WineDownloader]:   Fetching upstream information...
+(19:34:35) INFO:    [DXVKInstaller]:    Updating vkd3d to: vkd3d-proton-2.12
+(19:34:35) INFO:    [DXVKInstaller]:    Updating dxvk to: dxvk-2.3
+(19:34:35) INFO:    [DXVKInstaller]:    Updating dxvk-nvapi to: dxvk-nvapi-v0.7.0
+(19:34:36) INFO:    [WineDownloader]:   wine versions updated
+(19:34:36) INFO:    [WineDownloader]:   Start installation of wine version Wine-GE-Proton8-26
+(19:34:37) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/jp7677/dxvk-nvapi/releases/download/v0.7.0/dxvk-nvapi-v0.7.0.tar.gz
+(19:34:37) INFO:    [DXVKInstaller]:    Downloaded dxvk-nvapi, extracting...
+(19:34:37) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/dxvk-nvapi/dxvk-nvapi-v0.7.0.tar.gz to /home/stern/.config/heroic/tools/dxvk-nvapi/dxvk-nvapi-v0.7.0 using native tar
+(19:34:37) INFO:    [DXVKInstaller]:    dxvk-nvapi updated!
+(19:34:37) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/Heroic-Games-Launcher/vkd3d-proton/releases/download/v2.12/vkd3d-proton-2.12.tar.xz
+(19:34:37) INFO:    [DXVKInstaller]:    Downloaded vkd3d, extracting...
+(19:34:37) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/vkd3d/vkd3d-proton-2.12.tar.xz to /home/stern/.config/heroic/tools/vkd3d/vkd3d-proton-2.12 using native tar
+(19:34:37) INFO:    [DXVKInstaller]:    vkd3d updated!
+(19:34:37) INFO:    [WineDownloader]:   Updating wine versions info
+(19:34:37) INFO:    [WineDownloader]:   Fetching upstream information...
+(19:34:37) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/doitsujin/dxvk/releases/download/v2.3/dxvk-2.3.tar.gz
+(19:34:37) INFO:    [DXVKInstaller]:    Downloaded dxvk, extracting...
+(19:34:37) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/dxvk/dxvk-2.3.tar.gz to /home/stern/.config/heroic/tools/dxvk/dxvk-2.3 using native tar
+(19:34:37) INFO:    [WineDownloader]:   wine versions updated
+(19:34:37) INFO:    [DXVKInstaller]:    dxvk updated!
+(19:34:37) INFO:    [Backend]:          Starting the Download Queue
+(19:34:39) INFO:    [Backend]:          Downloaded: 25.42 MB / 222.76 MB  @13.02 MB/s (11.41%)
+(19:34:40) DEBUG:   [Nile]:             Getting login data from Nile
+(19:34:40) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile auth --login --non-interactive
+(19:34:41) INFO:    [Backend]:          Downloaded: 61.85 MB / 222.76 MB  @24.63 MB/s (27.77%)
+(19:34:41) INFO:    [Nile]:             Register data is: {
+  "client_id": "3342433746384541453343433131454539353737443842424331303746363038234132554d56484f58375550345637",
+  "code_verifier": "uDd0tmNDOweFoYo8EdwofJXkKoGWJDQK-0yOzZEMV1M",
+  "serial": "3BC7F8EAE3CC11EE9577D8BBC107F608",
+  "url": "https://amazon.com/ap/signin?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.oa2.scope=device_auth_access&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.response_type=code&openid.oa2.code_challenge_method=S256&openid.oa2.client_id=device%3A3342433746384541453343433131454539353737443842424331303746363038234132554d56484f58375550345637&language=en_US&marketPlaceId=ATVPDKIKX0DER&openid.return_to=https%3A%2F%2Fwww.amazon.com&openid.pape.max_auth_age=0&openid.assoc_handle=amzn_sonic_games_launcher&pageId=amzn_sonic_games_launcher&openid.oa2.code_challenge=VwH2qpDu56tKTkf8308pvdciLCf2LLBsVMwr4Wvubo8"
+}
+(19:34:42) INFO:    [Backend]:          Downloaded: 93.42 MB / 222.76 MB  @22.24 MB/s (41.94%)
+(19:34:43) INFO:    [Backend]:          Downloaded: 117.02 MB / 222.76 MB  @22.3 MB/s (52.53%)
+(19:34:44) INFO:    [Backend]:          Downloaded: 140.29 MB / 222.76 MB  @23.26 MB/s (62.98%)
+(19:34:45) INFO:    [Backend]:          Downloaded: 173.32 MB / 222.76 MB  @22.16 MB/s (77.81%)
+(19:34:47) INFO:    [Backend]:          Downloaded: 206.07 MB / 222.76 MB  @23.19 MB/s (92.51%)
+(19:34:48) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-26/wine-lutris-GE-Proton8-26-x86_64.tar.xz
+(19:34:48) INFO:    [Backend]:          Extracting /home/stern/.config/heroic/tools/wine/wine-lutris-GE-Proton8-26-x86_64.tar.xz to /home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26 using native tar
+(19:34:57) INFO:    [WineDownloader]:   Finished installation of wine version Wine-GE-Proton8-26
+(19:34:57) INFO:    [Backend]:          Changing wine version to Wine - Wine-GE-Proton8-26
+(19:34:57) INFO:    [Backend]:          Heroic: Setting wineVersion to {"bin":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wine","name":"Wine - Wine-GE-Proton8-26","type":"wine","lib":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib64","lib32":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib","wineserver":"/home/stern/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wineserver"} (previous value: {"bin":"","name":"Default Wine - Not Found","type":"wine"})
+(19:35:10) DEBUG:   [Nile]:             Got register data: {
+  "client_id": "3342433746384541453343433131454539353737443842424331303746363038234132554d56484f58375550345637",
+  "code": "ANNlHHeemzZzsZEjWwjjXUYA",
+  "code_verifier": "uDd0tmNDOweFoYo8EdwofJXkKoGWJDQK-0yOzZEMV1M",
+  "serial": "3BC7F8EAE3CC11EE9577D8BBC107F608"
+}
+(19:35:10) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile register --code <redacted> --code-verifier uDd0tmNDOweFoYo8EdwofJXkKoGWJDQK-0yOzZEMV1M --serial 3BC7F8EAE3CC11EE9577D8BBC107F608 --client-id 3342433746384541453343433131454539353737443842424331303746363038234132554d56484f58375550345637
+(19:35:16) INFO:    [Nile]:             Authentication successful
+(19:35:16) INFO:    [Nile]:             Saved user data to config file
+(19:35:16) INFO:    [Frontend]:         Refreshing nile Library
+(19:35:16) INFO:    [Nile]:             Refreshing library...
+(19:35:16) INFO:    [Nile]:             Refreshing Amazon Games...
+(19:35:16) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+(19:35:16) INFO:    [Nile]:             Game list updated, got 328 games
+(19:35:16) INFO:    [Frontend]:         No cache found, getting data from nile...
+(19:35:16) INFO:    [Nile]:             Refreshing library...
+(19:35:16) INFO:    [Nile]:             Refreshing Amazon Games...
+(19:35:16) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/stern/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+(19:35:16) INFO:    [Nile]:             Game list updated, got 328 games
+(19:35:38) INFO:    [Gog]:              Logging using GOG credentials
+(19:35:38) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth --code <redacted>
+(19:35:38) INFO:    [Gog]:              Login Successful
+(19:35:38) INFO:    [Gog]:              Checking if login is valid
+(19:35:38) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(19:35:38) INFO:    [Gog]:              Saved username to config file
+(19:35:38) INFO:    [Frontend]:         Refreshing gog Library
+(19:35:38) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(19:35:39) INFO:    [Gog]:              Getting GOG library
+(19:35:39) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/stern/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/stern/.config/heroic/gog_store/auth.json auth
+(19:35:40) INFO:    [Gog]:              Saved games data
+(19:36:14) INFO:    [Legendary]:        Logging in: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(19:36:15) INFO:    [Frontend]:         Refreshing legendary Library
+(19:36:15) INFO:    [Legendary]:        Refreshing library...
+(19:36:15) INFO:    [Legendary]:        Refreshing Epic Games...
+(19:36:15) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(19:36:18) INFO:    [Legendary]:        Game list updated, got 69 games & DLCs
+(19:36:18) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(19:36:18) INFO:    [Legendary]:        Refreshing library...
+(19:36:18) INFO:    [Legendary]:        Refreshing Epic Games...
+(19:36:18) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/stern/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(19:36:20) INFO:    [Legendary]:        Game list updated, got 69 games & DLCs
+(19:36:20) INFO:    [Frontend]:         Force Update
